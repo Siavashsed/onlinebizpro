@@ -1,0 +1,10 @@
+title: Online Biz Pro
+description: Practical online business building strategies
+theme: minima
+baseurl: ""
+url: "https://onlinebizpro.io"
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+show_excerpts: true
+minima:
+  skin: dark
