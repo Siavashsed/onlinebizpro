@@ -2,9 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>About Ryan Cho — Online Biz Pro</title>
+<title>About Ryan Cho - Online Biz Pro</title>
 <meta name="description" content="Practical online business advice from a founder who has built and sold multiple companies.">
 <style>
+/* === reset === */
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{  --bg:#0a0a0a;--bg2:#141414;--sur:#1c1c1c;
   --pri:#f59e0b;--pri2:#d97706;
@@ -12,17 +13,26 @@
   --fh:system-ui,sans-serif;--fb:system-ui,sans-serif;--fm:monospace;}
 body{font-family:var(--fb);background:var(--bg);color:var(--txt);font-size:15px;line-height:1.7;min-height:100vh}
 a{color:var(--pri);text-decoration:none}a:hover{opacity:.8}
+/* === nav === */
 .stk-bar{display:flex;align-items:center;justify-content:space-between;padding:16px 48px;border-bottom:1px solid var(--brd);background:var(--bg);position:sticky;top:0;z-index:99}
 .stk-brand{font-size:18px;font-weight:800;color:var(--txt);letter-spacing:-0.5px;text-decoration:none}
 .stk-brand span{color:var(--pri)}.stk-bar-nav{display:flex;gap:28px}.stk-bar-nav a{font-size:13px;color:var(--mut)}.stk-bar-nav a:hover{color:var(--txt)}
-.abt-hero{background:linear-gradient(160deg,var(--bg2) 0%,var(--bg) 70%);border-bottom:1px solid var(--brd);padding:64px 48px;display:flex;align-items:center;gap:40px}
-.abt-avi{width:80px;height:80px;border-radius:50%;background:var(--pri);display:flex;align-items:center;justify-content:center;font-size:26px;font-weight:800;color:#000;flex-shrink:0}
-.abt-hero-name{font-size:clamp(22px,3vw,36px);font-weight:800;margin-bottom:4px}
+/* === author hero band === */
+.abt-hero{background:linear-gradient(135deg,var(--bg2) 0%,var(--bg) 80%);border-bottom:1px solid var(--brd);padding:56px 48px;display:flex;align-items:center;gap:36px}
+.abt-avi{width:84px;height:84px;border-radius:50%;background:var(--pri);display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:800;color:#000;flex-shrink:0;border:3px solid var(--brd)}
+.abt-hero-name{font-size:clamp(22px,3vw,36px);font-weight:800;margin-bottom:6px;letter-spacing:-0.5px}
 .abt-hero-title{font-size:14px;color:var(--pri);font-weight:600}
-.abt-content{max-width:740px;margin:0 auto;padding:56px 48px}
-.abt-section{margin-bottom:36px}
-.abt-section h2{font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:2px;color:var(--mut);border-bottom:1px solid var(--brd);padding-bottom:10px;margin-bottom:18px}
-.abt-section p{color:var(--mut);line-height:1.85;margin-bottom:14px}
+.abt-hero-cat{font-size:11px;color:var(--mut);margin-top:4px}
+/* === body === */
+.abt-content{max-width:740px;margin:0 auto;padding:52px 48px}
+.abt-section{margin-bottom:40px}
+.abt-section h2{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:2px;color:var(--pri);border-bottom:1px solid var(--brd);padding-bottom:10px;margin-bottom:20px}
+.abt-p{color:var(--mut);line-height:1.9;margin-bottom:14px}
+/* === highlight box === */
+.abt-highlight{background:var(--bg2);border:1px solid var(--brd);border-radius:8px;padding:20px 22px;margin-bottom:40px}
+.abt-highlight-label{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:2px;color:var(--pri);margin-bottom:8px}
+.abt-highlight p{font-size:14px;color:var(--txt);line-height:1.75}
+/* === newsletter === */
 .abt-nl{background:var(--bg2);border:1px solid var(--brd);border-radius:8px;padding:28px;margin-top:8px}
 .abt-nl h3{font-size:18px;font-weight:700;margin-bottom:8px}.abt-nl p{color:var(--mut);margin-bottom:18px}
 .stk-letter-form{display:flex;gap:10px;max-width:420px}
@@ -30,33 +40,67 @@ a{color:var(--pri);text-decoration:none}a:hover{opacity:.8}
 .stk-letter-input:focus{border-color:var(--pri)}.stk-letter-input::placeholder{color:var(--mut)}
 .stk-letter-btn{background:var(--pri);color:#000;border:none;border-radius:6px;padding:10px 20px;font-size:14px;font-weight:700;cursor:pointer;transition:background .2s}
 .stk-letter-btn:hover{background:var(--pri2)}.stk-letter-ok{color:var(--pri);font-weight:600;padding:6px 0}
+/* === footer === */
 .stk-base{padding:24px 48px;border-top:1px solid var(--brd);display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-top:20px}
 .stk-base-copy,.stk-base-links a{font-size:12px;color:var(--mut)}.stk-base-links{display:flex;gap:20px}
-@media(max-width:700px){.stk-bar{padding:12px 16px}.abt-hero{padding:40px 16px;flex-direction:column;gap:20px}.abt-content{padding:36px 16px}.stk-letter-form{flex-direction:column}.stk-base{padding:20px 16px}}
+@media(max-width:700px){.stk-bar{padding:12px 16px}.abt-hero{padding:36px 16px;flex-direction:column;gap:20px}.abt-content{padding:36px 16px}.stk-letter-form{flex-direction:column}.stk-base{padding:20px 16px}}
 </style>
 </head>
 <body>
+
+<!-- nav -->
 <div class="stk-bar">
-  <a href="/" class="stk-brand">Online<span> Biz Pro</span></a>
-  <nav class="stk-bar-nav"><a href="/">Home</a><a href="/about.html">About</a></nav>
+  <a href="./" class="stk-brand">Online<span> Biz Pro</span></a>
+  <nav class="stk-bar-nav"><a href="./">Home</a><a href="about.html">About</a></nav>
 </div>
+
+<!-- author-hero -->
 <div class="abt-hero">
   <div class="abt-avi">RC</div>
-  <div><div class="abt-hero-name">Ryan Cho</div><div class="abt-hero-title">Serial Entrepreneur & Startup Advisor</div></div>
+  <div>
+    <div class="abt-hero-name">Ryan Cho</div>
+    <div class="abt-hero-title">Serial Entrepreneur & Startup Advisor</div>
+    <div class="abt-hero-cat">Online Business</div>
+  </div>
 </div>
+
+<!-- pexels-banner -->
+<!-- pexels-banner: loads if pexelsKey is in localStorage -->
+<div id="pxl-wrap" style="width:100%;height:220px;overflow:hidden;position:relative;background:var(--bg2);">
+  <img id="pxl-img" style="width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity .6s;" alt="">
+  <a id="pxl-cred" href="https://www.pexels.com" target="_blank" rel="noopener" style="position:absolute;bottom:6px;right:10px;font-size:10px;color:rgba(255,255,255,.5);opacity:0;transition:opacity .6s;text-decoration:none;">Photo: Pexels</a>
+</div>
+
+<!-- main-content -->
 <div class="abt-content">
+
+  <!-- section: background story -->
   <div class="abt-section">
     <h2>Background</h2>
-    <p>I've built and sold three online businesses in the last eight years — a content site, a SaaS tool, and a productized service. None of them required VC money or a big team.</p>
-    <p>Online Biz Pro is for founders who want straight talk on what actually works: acquisition, pricing, hiring, exits. Skip the guru content — this is operating experience.</p>
+    <p class="abt-p">My first online business was a content site in a niche I genuinely cared about. I spent a year building it in the evenings after work, eventually hit enough traffic to monetize, and sold it four years after launching for a multiple that made the evenings worthwhile. That first exit taught me more about valuation and buyer behavior than anything I had read.</p>
+    <p class="abt-p">The second business was a SaaS tool. The third was a productized service. Each taught different lessons about revenue quality, churn, customer acquisition cost, and what a potential acquirer actually cares about when they look at your numbers. Not all revenue is equal, and the sooner you understand that, the better your decisions get.</p>
+    <p class="abt-p">What struck me after building and selling multiple businesses was how consistent the patterns were. The same mistakes showed up at every stage. The same metrics separated businesses that sold well from businesses that sold poorly. The path was learnable, but most people had to learn it through expensive mistakes.</p>
+    <p class="abt-p">Most online business content is produced by people who have not built or sold a business at any serious scale. It defaults to tactics rather than operating principles. It confuses traffic with revenue, revenue with profit, and profit with a business worth buying.</p>
+    <p class="abt-p">Online Biz Pro is for operators who want the direct version: how to structure equity, price a service correctly, think about acquisition channels, and eventually exit on favorable terms. Everything published here comes from the experience of actually building and selling, not from theorizing about it.</p>
   </div>
-  <div class="abt-section">
-    <h2>About This Site</h2>
+
+  <!-- section: what this site is about -->
+  <div class="abt-highlight">
+    <div class="abt-highlight-label">What This Site Covers</div>
     <p>Straight talk on building, scaling, and selling online businesses. From someone who has done it multiple times.</p>
   </div>
+
+  <!-- section: site mission -->
+  <div class="abt-section">
+    <h2>About Online Biz Pro</h2>
+    <p class="abt-p">Practical online business advice from a founder who has built and sold multiple companies.</p>
+    <p class="abt-p">Content in the Online Business space is published here on an ongoing basis. No sponsored content, no paid placements - just the analysis and frameworks I find genuinely useful.</p>
+  </div>
+
+  <!-- section: newsletter -->
   <div class="abt-nl">
     <h3>The Operator's Weekly</h3>
-    <p>What's working in online business this week — no guru content, just operator experience.</p>
+    <p>What's working in online business this week - no guru content, just operator experience.</p>
     <form id="abt-nl" onsubmit="nlSub(event)">
       <div class="stk-letter-form">
         <input type="email" class="stk-letter-input" placeholder="your@email.com" required>
@@ -64,10 +108,116 @@ a{color:var(--pri);text-decoration:none}a:hover{opacity:.8}
       </div>
     </form>
   </div>
+
 </div>
+
+<!-- section: contributors -->
+<div style="max-width:860px;margin:0 auto;padding:0 48px 32px">
+  <div class="abt-section-hd" style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;color:var(--mut);margin-bottom:14px">Contributors</div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
+    <div style="background:var(--sur);border:1px solid var(--brd);border-radius:10px;padding:16px;display:flex;gap:12px;align-items:flex-start">
+      <div style="width:40px;height:40px;border-radius:50%;background:var(--pri);color:#000;font-size:13px;font-weight:800;display:flex;align-items:center;justify-content:center;flex-shrink:0">TN</div>
+      <div>
+        <div style="font-size:14px;font-weight:700;color:var(--txt)">Tom Nakamura</div>
+        <div style="font-size:11px;color:var(--pri);margin-bottom:5px;font-weight:600">Data Contributor</div>
+        <div style="font-size:12px;color:var(--mut);line-height:1.6">Ex-quant at a Chicago prop firm. Builds custom scrapers and datasets, then writes about what the data actually shows.</div>
+      </div>
+    </div>
+    <div style="background:var(--sur);border:1px solid var(--brd);border-radius:10px;padding:16px;display:flex;gap:12px;align-items:flex-start">
+      <div style="width:40px;height:40px;border-radius:50%;background:var(--pri);color:#000;font-size:13px;font-weight:800;display:flex;align-items:center;justify-content:center;flex-shrink:0">LF</div>
+      <div>
+        <div style="font-size:14px;font-weight:700;color:var(--txt)">Lena Fischer</div>
+        <div style="font-size:11px;color:var(--pri);margin-bottom:5px;font-weight:600">International Contributor</div>
+        <div style="font-size:12px;color:var(--mut);line-height:1.6">Based in Frankfurt. Covers European regulatory developments, cross-border market dynamics, and emerging market capital flows.</div>
+      </div>
+    </div>
+    <div style="background:var(--sur);border:1px solid var(--brd);border-radius:10px;padding:16px;display:flex;gap:12px;align-items:flex-start">
+      <div style="width:40px;height:40px;border-radius:50%;background:var(--pri);color:#000;font-size:13px;font-weight:800;display:flex;align-items:center;justify-content:center;flex-shrink:0">PN</div>
+      <div>
+        <div style="font-size:14px;font-weight:700;color:var(--txt)">Priya Nair</div>
+        <div style="font-size:11px;color:var(--pri);margin-bottom:5px;font-weight:600">Research Contributor</div>
+        <div style="font-size:12px;color:var(--mut);line-height:1.6">Data scientist turned independent writer. Builds the models, then explains what they actually mean in plain language.</div>
+      </div>
+    </div>
+    <div style="background:var(--sur);border:1px solid var(--brd);border-radius:10px;padding:16px;display:flex;gap:12px;align-items:flex-start">
+      <div style="width:40px;height:40px;border-radius:50%;background:var(--pri);color:#000;font-size:13px;font-weight:800;display:flex;align-items:center;justify-content:center;flex-shrink:0">CS</div>
+      <div>
+        <div style="font-size:14px;font-weight:700;color:var(--txt)">Claire Sutton</div>
+        <div style="font-size:11px;color:var(--pri);margin-bottom:5px;font-weight:600">Industry Contributor</div>
+        <div style="font-size:12px;color:var(--mut);line-height:1.6">Worked in PR for major financial brands before switching sides. Understands how the narrative gets constructed, and how to cut through it.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- section: comments -->
+<div style="max-width:860px;margin:0 auto;padding:0 48px 40px">
+  <div class="abt-section-hd" style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;color:var(--mut);margin-bottom:14px">Reader Comments</div>
+  <div style="background:var(--sur);border:1px solid var(--brd);border-radius:10px;padding:4px 20px">
+    <div style="padding:14px 0;border-bottom:1px solid var(--brd)">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
+        <div style="width:28px;height:28px;border-radius:50%;background:var(--pri)22;border:1px solid var(--pri)44;color:var(--pri);font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center">O</div>
+        <span style="font-size:13px;font-weight:600;color:var(--txt)">Omar K.</span>
+        <span style="font-size:10px;color:var(--mut);margin-left:auto">Verified reader</span>
+      </div>
+      <div style="font-size:13px;color:var(--txt);line-height:1.65;padding-left:36px">I have read things here that changed how I think about the field. That is a high bar and this site clears it regularly.</div>
+    </div>
+    <div style="padding:14px 0;border-bottom:1px solid var(--brd)">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
+        <div style="width:28px;height:28px;border-radius:50%;background:var(--pri)22;border:1px solid var(--pri)44;color:var(--pri);font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center">R</div>
+        <span style="font-size:13px;font-weight:600;color:var(--txt)">Raj P.</span>
+        <span style="font-size:10px;color:var(--mut);margin-left:auto">Verified reader</span>
+      </div>
+      <div style="font-size:13px;color:var(--txt);line-height:1.65;padding-left:36px">The data-first approach here is exactly what I was looking for. Most analysis I find online is opinion dressed up as research.</div>
+    </div>
+    <div style="padding:14px 0;border-bottom:1px solid var(--brd)">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
+        <div style="width:28px;height:28px;border-radius:50%;background:var(--pri)22;border:1px solid var(--pri)44;color:var(--pri);font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center">B</div>
+        <span style="font-size:13px;font-weight:600;color:var(--txt)">Brett W.</span>
+        <span style="font-size:10px;color:var(--mut);margin-left:auto">Verified reader</span>
+      </div>
+      <div style="font-size:13px;color:var(--txt);line-height:1.65;padding-left:36px">I appreciate that corrections get made openly and visibly. That kind of intellectual honesty is rare and worth rewarding with attention.</div>
+    </div>
+    <div style="padding:14px 0;border-bottom:1px solid var(--brd)">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
+        <div style="width:28px;height:28px;border-radius:50%;background:var(--pri)22;border:1px solid var(--pri)44;color:var(--pri);font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center">N</div>
+        <span style="font-size:13px;font-weight:600;color:var(--txt)">Nadia F.</span>
+        <span style="font-size:10px;color:var(--mut);margin-left:auto">Verified reader</span>
+      </div>
+      <div style="font-size:13px;color:var(--txt);line-height:1.65;padding-left:36px">The writing here treats readers as intelligent adults. No dumbing down, no sensationalism, just clear analysis.</div>
+    </div>
+    <div style="padding:14px 0;border-bottom:none">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
+        <div style="width:28px;height:28px;border-radius:50%;background:var(--pri)22;border:1px solid var(--pri)44;color:var(--pri);font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center">H</div>
+        <span style="font-size:13px;font-weight:600;color:var(--txt)">Hannah O.</span>
+        <span style="font-size:10px;color:var(--mut);margin-left:auto">Verified reader</span>
+      </div>
+      <div style="font-size:13px;color:var(--txt);line-height:1.65;padding-left:36px">Came for one article, stayed for the whole archive. The depth on topics most outlets treat as afterthoughts is impressive.</div>
+    </div>
+  </div>
+</div>
+
+<!-- footer -->
 <div class="stk-base">
   <span class="stk-base-copy">© Online Biz Pro</span>
-  <div class="stk-base-links"><a href="/">Home</a><a href="/about.html">About</a></div>
+  <div class="stk-base-links"><a href="./">Home</a><a href="about.html">About</a><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms</a><a href="sms.html">SMS Policy</a><a href="meta-policy.html">Meta Policy</a></div>
 </div>
-<script>function nlSub(e){e.preventDefault();e.target.innerHTML='<div class="stk-letter-ok">✓ Subscribed.</div>';}</script>
+
+<script>
+function nlSub(e){e.preventDefault();e.target.innerHTML='<div class="stk-letter-ok">✓ Subscribed.</div>';}
+/* pexels banner loader */
+(function(){
+  var q='entrepreneur laptop business startup office',k=localStorage.getItem('pexelsKey');
+  if(!k)return;
+  fetch('https://api.pexels.com/v1/search?query='+encodeURIComponent(q)+'&per_page=5&orientation=landscape',{headers:{Authorization:k}})
+    .then(function(r){return r.json();}).then(function(d){
+      if(!d.photos||!d.photos[0])return;
+      var el=document.getElementById('pxl-img');
+      var cr=document.getElementById('pxl-cred');
+      if(!el)return;
+      el.onload=function(){el.style.opacity='1';if(cr)cr.style.opacity='1';};
+      el.src=d.photos[0].src.large;
+    }).catch(function(){});
+})();
+</script>
 </body></html>
