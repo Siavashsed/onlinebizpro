@@ -23,5 +23,18 @@
     "outbound_links": [
       "mbopartners.com"
     ]
+  },
+  {
+    "title": "The Real Cost of Starting a SaaS Product in 2025 (Nobody Tells You This)",
+    "slug": "real-cost-starting-saas-2025",
+    "meta_description": "Ryan Cho breaks down the true cost of starting a SaaS product in 2025 \u2014 beyond hosting fees, into the money most founders lose before launch.",
+    "date": "May 17, 2026",
+    "date_iso": "2026-05-17",
+    "author": "Ryan Cho",
+    "image": "https://images.pexels.com/photos/9432429/pexels-photo-9432429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "stripe.com",
+      "wordstream.com"
+    ]
   }
 ]
