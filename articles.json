@@ -15,7 +15,7 @@
   {
     "title": "How to Build a One-Person Online Business That Actually Scales",
     "slug": "one-person-online-business-scales",
-    "meta_description": "Ryan Cho shares the real framework for building a one-person online business that scales — without burning out or hiring too early.",
+    "meta_description": "Ryan Cho shares the real framework for building a one-person online business that scales \u2014 without burning out or hiring too early.",
     "date": "May 15, 2026",
     "date_iso": "2026-05-15",
     "author": "Siavash Sadighi",
@@ -27,7 +27,7 @@
   {
     "title": "The Real Cost of Starting a SaaS Product in 2025 (Nobody Tells You This)",
     "slug": "real-cost-starting-saas-2025",
-    "meta_description": "Ryan Cho breaks down the true cost of starting a SaaS product in 2025 — beyond hosting fees, into the money most founders lose before launch.",
+    "meta_description": "Ryan Cho breaks down the true cost of starting a SaaS product in 2025 \u2014 beyond hosting fees, into the money most founders lose before launch.",
     "date": "May 17, 2026",
     "date_iso": "2026-05-17",
     "author": "Siavash Sadighi",
@@ -35,6 +35,18 @@
     "outbound_links": [
       "stripe.com",
       "wordstream.com"
+    ]
+  },
+  {
+    "title": "How to Find Your First 100 Customers Without Paid Ads (And Why Most Founders Skip the Hard Part)",
+    "slug": "first-100-customers-no-paid-ads",
+    "meta_description": "Serial entrepreneur Siavash Sadighi shares the exact approach to finding your first 100 customers without spending a dollar on ads.",
+    "date": "May 18, 2026",
+    "date_iso": "2026-05-18",
+    "author": "Siavash Sadighi",
+    "image": "https://images.pexels.com/photos/20044373/pexels-photo-20044373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "nielsen.com"
     ]
   }
 ]
