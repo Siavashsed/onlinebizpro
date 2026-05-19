@@ -1,0 +1,52 @@
+[
+  {
+    "id": "c1943",
+    "name": "Sarah M.",
+    "initials": "SM",
+    "color": "#f59e0b",
+    "date_iso": "2026-05-19",
+    "date_display": "May 19, 2026",
+    "text": "This is exactly what I needed to hear. I've been overthinking the paid ads route when I should've been building genuine relationships with early adopters first.",
+    "likes": 8
+  },
+  {
+    "id": "c2543",
+    "name": "Marcus T.",
+    "initials": "MT",
+    "color": "#6366f1",
+    "date_iso": "2026-05-23",
+    "date_display": "May 23, 2026",
+    "text": "The hard part is real - I spent 3 months on networking and content before getting my first 20 customers, but they became my best advocates. Worth every hour.",
+    "likes": 11
+  },
+  {
+    "id": "c3630",
+    "name": "Jennifer K.",
+    "initials": "JK",
+    "color": "#f97316",
+    "date_iso": "2026-05-25",
+    "date_display": "May 25, 2026",
+    "text": "Question: Does this approach work for B2B SaaS or is it mostly for consumer products? Our sales cycle is longer and I'm not sure how to apply this.",
+    "likes": 5
+  },
+  {
+    "id": "c4196",
+    "name": "David L.",
+    "initials": "DL",
+    "color": "#38bdf8",
+    "date_iso": "2026-05-30",
+    "date_display": "May 30, 2026",
+    "text": "Most founders skip it because it's uncomfortable and slow. I get it, but skipping organic growth means you don't really understand your market.",
+    "likes": 9
+  },
+  {
+    "id": "c5418",
+    "name": "Amanda R.",
+    "initials": "AR",
+    "color": "#14b8a6",
+    "date_iso": "2026-06-02",
+    "date_display": "Jun 2, 2026",
+    "text": "Been there, done this with my newsletter. Took 4 months to hit 100 subs organically but conversion rate is way higher than anything I've ever bought.",
+    "likes": 7
+  }
+]
