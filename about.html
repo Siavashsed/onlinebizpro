@@ -428,9 +428,19 @@ button{font-family:var(--font)}
   *{animation-duration:.01ms!important;transition-duration:.01ms!important}
   .reveal{opacity:1;transform:none}
 }
+/* Article-page-only: force the article H1 / hero title to solid black so the
+   headline always reads with maximum contrast on the white article paper.
+   body[data-page-depth="1"] is set by layout_shell.wrap_page on every article. */
+body[data-page-depth="1"] h1,
+body[data-page-depth="1"] .art-title,
+body[data-page-depth="1"] .mag-hero h1,
+body[data-page-depth="1"] article h1,
+body[data-page-depth="1"] .article-title{
+  color:#000 !important;
+}
 </style>
 </head>
-<body>
+<body data-page-depth="0">
 <div class="bg-deco" aria-hidden="true">
   <div class="bg-glow g1"></div>
   <div class="bg-glow g2"></div>
