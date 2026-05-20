@@ -9,7 +9,8 @@
     "image": "https://images.pexels.com/photos/20044373/pexels-photo-20044373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "outbound_links": [
       "nielsen.com"
-    ]
+    ],
+    "category": "SaaS Products"
   },
   {
     "title": "Pricing Psychology: Why $97 Beats $99 in Most DTC Markets",
@@ -22,7 +23,8 @@
     "outbound_links": [
       "intelligems.io"
     ],
-    "syndicated_from": "ecommerceedge"
+    "syndicated_from": "ecommerceedge",
+    "category": "Acquisitions & Exits"
   },
   {
     "title": "AI Competitor Analysis at Scale: How to Actually Do It (Not Just Talk About It)",
@@ -37,7 +39,8 @@
       "apify.com",
       "semrush.com"
     ],
-    "syndicated_from": "aimarketingpro"
+    "syndicated_from": "aimarketingpro",
+    "category": "SaaS Products"
   },
   {
     "title": "The Real Cost of Starting a SaaS Product in 2025 (Nobody Tells You This)",
@@ -50,7 +53,8 @@
     "outbound_links": [
       "stripe.com",
       "wordstream.com"
-    ]
+    ],
+    "category": "SaaS Products"
   },
   {
     "title": "Dollar-Cost Averaging Into Crypto: The Math Behind Why It Actually Works",
@@ -64,7 +68,8 @@
       "chainalysis.com",
       "river.com"
     ],
-    "syndicated_from": "cryptopulse"
+    "syndicated_from": "cryptopulse",
+    "category": "Acquisitions & Exits"
   },
   {
     "title": "Open-Source Trading Bots Worth Actually Using (And the Ones to Skip)",
@@ -79,7 +84,8 @@
       "hummingbot.io",
       "jesse.trade"
     ],
-    "syndicated_from": "cryptopulse"
+    "syndicated_from": "cryptopulse",
+    "category": "SaaS Products"
   },
   {
     "title": "How Top DTC Brands Turn the Thank-You Page Into a Revenue Machine",
@@ -92,7 +98,8 @@
     "outbound_links": [
       "zipify.com"
     ],
-    "syndicated_from": "ecommerceedge"
+    "syndicated_from": "ecommerceedge",
+    "category": "Pricing Strategy"
   },
   {
     "title": "ChatGPT vs Claude vs Gemini for Marketing Copy: An Honest Take From Someone Who's Actually Used All Three",
@@ -105,7 +112,8 @@
     "outbound_links": [
       "persado.com"
     ],
-    "syndicated_from": "aimarketingpro"
+    "syndicated_from": "aimarketingpro",
+    "category": "SaaS Products"
   },
   {
     "title": "Funding Rates Explained: What Every Futures Trader Actually Needs to Know",
@@ -119,7 +127,8 @@
       "glassnode.com",
       "binance.com"
     ],
-    "syndicated_from": "cryptopulse"
+    "syndicated_from": "cryptopulse",
+    "category": "SaaS Products"
   },
   {
     "title": "How Professional Trading Desks Actually Evaluate New Tools (And Why Most Vendors Fail the Test)",
@@ -132,7 +141,8 @@
     "outbound_links": [
       "cfainstitute.org"
     ],
-    "syndicated_from": "cryptopulse"
+    "syndicated_from": "cryptopulse",
+    "category": "SaaS Products"
   },
   {
     "title": "The Abandoned Cart Email Sequence That Consistently Recovers 15% of Lost Revenue",
@@ -145,7 +155,8 @@
     "outbound_links": [
       "baymard.com"
     ],
-    "syndicated_from": "ecommerceedge"
+    "syndicated_from": "ecommerceedge",
+    "category": "SaaS Products"
   },
   {
     "title": "Building an AI-Powered Lead Scoring System That Sales Will Actually Trust",
@@ -158,7 +169,8 @@
     "outbound_links": [
       "forrester.com"
     ],
-    "syndicated_from": "aimarketingpro"
+    "syndicated_from": "aimarketingpro",
+    "category": "Acquisitions & Exits"
   },
   {
     "title": "How to Validate a Business Idea Without Spending a Dollar",
@@ -171,7 +183,8 @@
     "outbound_links": [
       "cbinsights.com",
       "carrd.co"
-    ]
+    ],
+    "category": "SaaS Products"
   },
   {
     "title": "How to Build a One-Person Online Business That Actually Scales",
@@ -183,7 +196,8 @@
     "image": "https://images.pexels.com/photos/20955065/pexels-photo-20955065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "outbound_links": [
       "mbopartners.com"
-    ]
+    ],
+    "category": "SaaS Products"
   },
   {
     "title": "Why Algorithmic Trading Beats Emotional Trading When Crypto Markets Go Haywire",
@@ -197,7 +211,8 @@
       "jfe.journals.elsevier.com",
       "ssrn.com"
     ],
-    "syndicated_from": "cryptopulse"
+    "syndicated_from": "cryptopulse",
+    "category": "Acquisitions & Exits"
   },
   {
     "title": "How Exchange APIs Power Fully Automated Crypto Trading Strategies",
@@ -211,7 +226,8 @@
       "binance.com",
       "jfinancialmarkets.com"
     ],
-    "syndicated_from": "cryptopulse"
+    "syndicated_from": "cryptopulse",
+    "category": "SaaS Products"
   },
   {
     "title": "Bitcoin Volatility Patterns Institutional Traders Actually Track (Not the Ones You Read About)",
@@ -225,7 +241,8 @@
       "deribit.com",
       "papers.ssrn.com"
     ],
-    "syndicated_from": "cryptopulse"
+    "syndicated_from": "cryptopulse",
+    "category": "Content Sites"
   },
   {
     "title": "On-Chain Metrics That Preceded the Last Three Crypto Market Tops",
@@ -239,7 +256,8 @@
       "glassnode.com",
       "lookintobitcoin.com"
     ],
-    "syndicated_from": "cryptopulse"
+    "syndicated_from": "cryptopulse",
+    "category": "Acquisitions & Exits"
   },
   {
     "title": "Grid Bots vs Trend-Following Bots: A Real Head-to-Head Comparison",
@@ -253,7 +271,8 @@
       "binance.com",
       "coghlan-capital.com"
     ],
-    "syndicated_from": "cryptopulse"
+    "syndicated_from": "cryptopulse",
+    "category": "SaaS Products"
   },
   {
     "title": "The Best Python Libraries for Backtesting Trading Strategies (And What Nobody Tells You About Them)",
@@ -268,7 +287,8 @@
       "kernc.github.io/backtesting.py",
       "zipline-reloaded.readthedocs.io"
     ],
-    "syndicated_from": "cryptopulse"
+    "syndicated_from": "cryptopulse",
+    "category": "SaaS Products"
   },
   {
     "title": "How to Connect to Binance API Without Getting Rate-Limited: A Practitioner's Guide",
@@ -282,7 +302,8 @@
       "binance-docs.github.io",
       "redis.io"
     ],
-    "syndicated_from": "cryptopulse"
+    "syndicated_from": "cryptopulse",
+    "category": "SaaS Products"
   },
   {
     "title": "Pine Script vs Python: Which Should Traders Learn First (And Why the Answer Isn't Obvious)",
@@ -296,7 +317,8 @@
       "stackoverflow.com",
       "tradingview.com"
     ],
-    "syndicated_from": "cryptopulse"
+    "syndicated_from": "cryptopulse",
+    "category": "SaaS Products"
   },
   {
     "title": "Building a Real-Time Crypto Screener with WebSockets: Skip the REST Polling Trap",
@@ -311,7 +333,8 @@
       "binance-docs.github.io",
       "websockets.readthedocs.io"
     ],
-    "syndicated_from": "cryptopulse"
+    "syndicated_from": "cryptopulse",
+    "category": "SaaS Products"
   },
   {
     "title": "Backtest vs Live Trading: Why Your Results Will Always Differ (And What To Do About It)",
@@ -324,7 +347,8 @@
     "outbound_links": [
       "aqr.com"
     ],
-    "syndicated_from": "cryptopulse"
+    "syndicated_from": "cryptopulse",
+    "category": "Acquisitions & Exits"
   },
   {
     "title": "How to Increase Your Shopify Conversion Rate Without Spending a Dollar on Ads",
@@ -338,7 +362,8 @@
       "baymard.com",
       "developers.google.com/search/blog/2020/05/evaluating-page-experience"
     ],
-    "syndicated_from": "ecommerceedge"
+    "syndicated_from": "ecommerceedge",
+    "category": "Content Sites"
   },
   {
     "title": "Product Page Elements That Kill Conversions (And Why Most Brands Miss Them)",
@@ -351,7 +376,8 @@
     "outbound_links": [
       "baymard.com"
     ],
-    "syndicated_from": "ecommerceedge"
+    "syndicated_from": "ecommerceedge",
+    "category": "SaaS Products"
   },
   {
     "title": "AI Copywriting Tools in Real A/B Tests: What the Data Actually Shows",
@@ -364,7 +390,8 @@
     "outbound_links": [
       "persado.com"
     ],
-    "syndicated_from": "aimarketingpro"
+    "syndicated_from": "aimarketingpro",
+    "category": "SaaS Products"
   },
   {
     "title": "Using Claude to Write Better Ad Copy Than Your Agency (Without the Retainer Fee)",
@@ -378,7 +405,8 @@
       "anthropic.com",
       "nielseniq.com"
     ],
-    "syndicated_from": "aimarketingpro"
+    "syndicated_from": "aimarketingpro",
+    "category": "Productized Services"
   },
   {
     "title": "AI-Generated vs Human-Written Email Sequences: What the Open Rate Data Actually Shows",
@@ -391,7 +419,8 @@
     "outbound_links": [
       "mailchimp.com"
     ],
-    "syndicated_from": "aimarketingpro"
+    "syndicated_from": "aimarketingpro",
+    "category": "SaaS Products"
   },
   {
     "title": "How to Automate Your Content Calendar with AI Tools (Without Losing Strategic Control)",
@@ -406,6 +435,7 @@
       "semrush.com",
       "zapier.com"
     ],
-    "syndicated_from": "aimarketingpro"
+    "syndicated_from": "aimarketingpro",
+    "category": "SaaS Products"
   }
 ]
