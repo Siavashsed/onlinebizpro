@@ -428,6 +428,16 @@ button{font-family:var(--font)}
   *{animation-duration:.01ms!important;transition-duration:.01ms!important}
   .reveal{opacity:1;transform:none}
 }
+/* Article-page-only: force the article H1 / hero title to solid black so the
+   headline always reads with maximum contrast on the white article paper.
+   body[data-page-depth="1"] is set by layout_shell.wrap_page on every article. */
+body[data-page-depth="1"] h1,
+body[data-page-depth="1"] .art-title,
+body[data-page-depth="1"] .mag-hero h1,
+body[data-page-depth="1"] article h1,
+body[data-page-depth="1"] .article-title{
+  color:#000 !important;
+}
 /* page */
 .e404{max-width:560px;margin:0 auto;padding:88px 24px 96px;text-align:center}
 .e404-code{font-family:system-ui,sans-serif;font-size:96px;font-weight:900;color:#f59e0b;opacity:.28;line-height:1;margin-bottom:8px}
@@ -437,7 +447,7 @@ button{font-family:var(--font)}
 .e404-back:hover{opacity:.85}
 </style>
 </head>
-<body>
+<body data-page-depth="0">
 <div class="bg-deco" aria-hidden="true">
   <div class="bg-glow g1"></div>
   <div class="bg-glow g2"></div>
