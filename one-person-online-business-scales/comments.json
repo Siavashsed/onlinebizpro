@@ -7,7 +7,7 @@
     "date_iso": "2026-05-16",
     "date_display": "May 16, 2026",
     "text": "Been running solo for 18 months and scaling is definitely the hardest part. Your point about automation tools is spot on, but I'd add that knowing when to hire your first contractor makes all the difference.",
-    "likes": 9
+    "likes": 0
   },
   {
     "id": "c2753",
@@ -17,7 +17,7 @@
     "date_iso": "2026-05-18",
     "date_display": "May 18, 2026",
     "text": "Great breakdown! Question though: how do you handle customer support when you're the only person? I'm doing about $40k/month but drowning in emails.",
-    "likes": 11
+    "likes": 1
   },
   {
     "id": "c3293",
@@ -27,26 +27,6 @@
     "date_iso": "2026-05-21",
     "date_display": "May 21, 2026",
     "text": "This assumes you have a product that can scale without your direct involvement. What about service-based businesses? Seems like the ceiling is much lower.",
-    "likes": 7
-  },
-  {
-    "id": "c4643",
-    "name": "Linda M.",
-    "initials": "LM",
-    "color": "#14b8a6",
-    "date_iso": "2026-05-25",
-    "date_display": "May 25, 2026",
-    "text": "Started my Etsy shop 2 years ago with no business background and hit $15k/month last year using most of these strategies. The key really is systems and templates.",
-    "likes": 12
-  },
-  {
-    "id": "c5340",
-    "name": "David R.",
-    "initials": "DR",
-    "color": "#a78bfa",
-    "date_iso": "2026-05-30",
-    "date_display": "May 30, 2026",
-    "text": "Honestly, I think people overestimate how much passive income is actually possible. Most 'scaled' one-person businesses still require constant content creation and marketing.",
-    "likes": 8
+    "likes": 0
   }
 ]
