@@ -437,5 +437,63 @@
     ],
     "syndicated_from": "aimarketingpro",
     "category": "SaaS Products"
+  },
+  {
+    "title": "Shopify's 2021 Merchant Growth Surge: What It Actually Meant for Independent Online Sellers",
+    "slug": "shopify-2021-merchant-growth-online-sellers",
+    "meta_description": "Shopify's 2021 numbers rewrote the rules for independent online sellers. Here's what the surge really meant and what you should have done about it.",
+    "date": "March 06, 2021",
+    "date_iso": "2021-03-06",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/6407757/pexels-photo-6407757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "investors.shopify.com",
+      "census.gov",
+      "forbes.com",
+      "ftc.gov"
+    ],
+    "posted_iso": "2026-05-28",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Shopify's 2020 Breakout Year: What It Actually Meant for Online Business Owners",
+    "slug": "shopify-2020-breakout-online-business",
+    "meta_description": "Shopify's explosive 2020 growth reshaped online business forever. Here's what really happened, why it mattered, and what founders should take from it.",
+    "date": "July 20, 2020",
+    "date_iso": "2020-07-20",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/5717944/pexels-photo-5717944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "investors.shopify.com",
+      "digitalcommerce360.com",
+      "ir.aboutamazon.com",
+      "mckinsey.com"
+    ],
+    "posted_iso": "2026-05-28",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Shopify's 2022 Checkout Overhaul Changed What It Means to Sell Online",
+    "slug": "shopify-2022-checkout-extensibility-merchants",
+    "meta_description": "Shopify's 2022 checkout extensibility launch reshaped online selling. Here's what it actually meant for independent merchants and why it still matters.",
+    "date": "October 15, 2022",
+    "date_iso": "2022-10-15",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/6331238/pexels-photo-6331238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "baymard.com",
+      "census.gov"
+    ],
+    "posted_iso": "2026-05-28",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
