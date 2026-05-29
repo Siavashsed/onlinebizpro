@@ -495,5 +495,41 @@
       "en"
     ],
     "category": "Acquisitions & Exits"
+  },
+  {
+    "title": "The Profit Margin Pyramid: How to Structure Your Offerings for Maximum Revenue",
+    "slug": "profit-margin-pyramid-offerings-revenue",
+    "meta_description": "Learn how to build a profit margin pyramid that maximizes revenue across every customer segment. Real strategy from a serial entrepreneur.",
+    "date": "May 29, 2026",
+    "date_iso": "2026-05-29",
+    "author": "Adaeze Onyeka",
+    "image": "https://images.pexels.com/photos/35709963/pexels-photo-35709963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "mckinsey.com",
+      "hbr.org"
+    ],
+    "posted_iso": "2026-05-29",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Shopify's 2020 Explosion: What Actually Happened and Why It Rewrote Online Business",
+    "slug": "shopify-2020-online-business-explosion",
+    "meta_description": "Shopify's 2020 breakout wasn't luck. Here's what actually drove it, what it meant for online sellers, and the lessons that still hold today.",
+    "date": "January 07, 2020",
+    "date_iso": "2020-01-07",
+    "author": "Keiko Adams",
+    "image": "https://images.pexels.com/photos/7620622/pexels-photo-7620622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "investors.shopify.com",
+      "shopify.com",
+      "digitalcommerce360.com"
+    ],
+    "posted_iso": "2026-05-29",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
