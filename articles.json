@@ -455,7 +455,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Acquisitions & Exits"
   },
   {
     "title": "Shopify's 2020 Breakout Year: What It Actually Meant for Online Business Owners",
@@ -474,7 +475,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Acquisitions & Exits"
   },
   {
     "title": "Shopify's 2022 Checkout Overhaul Changed What It Means to Sell Online",
@@ -491,6 +493,7 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Acquisitions & Exits"
   }
 ]
