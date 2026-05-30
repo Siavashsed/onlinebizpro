@@ -8,7 +8,9 @@
     "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1400&q=85&auto=format&fit=crop",
     "date": "May 30, 2026",
     "date_iso": "2026-05-30",
-    "posted_iso": "2026-05-30T03:03:57.592944"
+    "posted_iso": "2026-05-30T03:03:57.592944",
+    "cross_post_exclude": true,
+    "aggregate": false
   },
   {
     "title": "How to Find Your First 100 Customers Without Paid Ads (And Why Most Founders Skip the Hard Part)",
