@@ -563,7 +563,8 @@
     "posted_iso": "2026-06-01",
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Acquisitions & Exits"
   },
   {
     "title": "ChatGPT's Business Explosion in 2023: What It Actually Meant for Online Sellers",
@@ -582,6 +583,7 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "SaaS Products"
   }
 ]
