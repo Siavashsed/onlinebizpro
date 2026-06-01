@@ -546,5 +546,42 @@
       "en"
     ],
     "category": "Acquisitions & Exits"
+  },
+  {
+    "title": "Building Multiple Revenue Streams Without Spreading Yourself Too Thin",
+    "slug": "multiple-revenue-streams-without-burnout",
+    "meta_description": "Serial entrepreneur Ryan Cross on how to build multiple revenue streams that compound instead of compete. Real frameworks, no fluff.",
+    "date": "June 01, 2026",
+    "date_iso": "2026-06-01",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/5717734/pexels-photo-5717734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "hbr.org",
+      "mckinsey.com",
+      "apa.org"
+    ],
+    "posted_iso": "2026-06-01",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "ChatGPT's Business Explosion in 2023: What It Actually Meant for Online Sellers",
+    "slug": "chatgpt-2023-online-business-impact",
+    "meta_description": "ChatGPT hit 100M users faster than any app in history. Here's what that meant for online business owners in 2023 - and what most people got wrong.",
+    "date": "September 09, 2023",
+    "date_iso": "2023-09-09",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/13801806/pexels-photo-13801806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "reuters.com",
+      "mckinsey.com",
+      "developers.google.com"
+    ],
+    "posted_iso": "2026-06-01",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
