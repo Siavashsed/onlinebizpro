@@ -270,6 +270,13 @@ button{font-family:var(--font)}
   transition:background .2s,border-color .2s}
 .articles-link:hover{background:rgba(108,92,231,.1);border-color:var(--accent2)}
 .articles-link svg{width:14px;height:14px}
+/* centered "view all" CTA below the blog grid */
+.articles-cta-wrap{display:flex;justify-content:center;margin-top:44px}
+.articles-cta{font-size:14px;font-weight:700;color:#0b0b0d;padding:14px 30px;border-radius:11px;
+  background:linear-gradient(120deg,var(--accent2),var(--lime));display:inline-flex;align-items:center;gap:9px;
+  letter-spacing:.2px;transition:transform .22s ease,box-shadow .22s ease;box-shadow:0 14px 34px -16px var(--accent2)}
+.articles-cta:hover{transform:translateY(-2px);box-shadow:0 20px 44px -16px var(--lime)}
+.articles-cta svg{width:16px;height:16px;stroke-width:2.6}
 .articles-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
 .article-card{background:var(--surface);border:1px solid var(--border);border-radius:16px;
   overflow:hidden;display:flex;flex-direction:column;transition:transform .25s,border-color .25s,box-shadow .25s}
@@ -578,7 +585,7 @@ body[data-page-depth="1"] article .intro a{color:#0a0a0a !important;text-decorat
         <a href="./">Home</a>
         <a href="./#topics">What We Cover</a>
         <a href="./#dashboard">The Numbers</a>
-        <a href="./#articles">Articles</a>
+        <a href="articles">Articles</a>
         <a href="./#about">About Ryan</a>
       </div>
     </div>
