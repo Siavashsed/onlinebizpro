@@ -523,7 +523,12 @@ body[data-page-depth="1"] article .intro a{color:#0a0a0a !important;text-decorat
 .aa-pager button:hover:not(:disabled){border-color:var(--accent2,#a78bfa)}
 .aa-kicker-label{font-family:'Space Grotesk','Inter',sans-serif;color:var(--lime,#bef264)}
 .aa-back-home:hover{color:var(--accent2,#a78bfa)}
-.aa-footer-kicker{border-top:1px solid var(--border,#222229)}</style>
+.aa-footer-kicker{border-top:1px solid var(--border,#222229)}
+/* Beat the shell's light-paper contrast-audit (forces bare h1/h2/h3 dark on
+   article-depth pages) so headings stay light on this dark archive. */
+body[data-page-depth="1"] .aa-lead-h,
+body[data-page-depth="1"] .aa-h,
+body[data-page-depth="1"] .aa-sec-h{color:var(--text,#f4f4f6)!important}</style>
 </head>
 <body data-page-depth="0">
 <div class="bg-deco" aria-hidden="true">
