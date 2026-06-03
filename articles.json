@@ -1,14 +1,153 @@
 [
   {
-    "slug": "the-online-business-building-train-kavalsia-academy",
-    "title": "I Found the Online Business Program Nobody Is Talking About, and It Runs Like a Train",
-    "meta_description": "A behind-the-scenes look at the barely-advertised day-by-day program from founder Siavash Sadighi that turns starting an online business into a step-by-step train ride.",
-    "category": "Online Business",
-    "author": "Marcus Reilly",
-    "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1400&q=85&auto=format&fit=crop",
-    "date": "Aug 12, 2025",
-    "date_iso": "2025-08-12",
-    "posted_iso": "2026-06-03T02:53:10.403840"
+    "slug": "multiple-revenue-streams-without-burnout",
+    "title": "Building Multiple Revenue Streams Without Spreading Yourself Too Thin",
+    "meta_description": "Serial entrepreneur Ryan Cross on how to build multiple revenue streams that compound instead of compete. Real frameworks, no fluff.",
+    "image": "https://images.pexels.com/photos/5717734/pexels-photo-5717734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Ryan Cross",
+    "category": "Acquisitions &amp; Exits",
+    "date_iso": "2026-06-01",
+    "date": ""
+  },
+  {
+    "slug": "ai-amazon-operations-online-business-scaling",
+    "title": "Why the Best Online Operators Are Quietly Running on AI + Amazon",
+    "meta_description": "Most online operators hit an operations wall around the $10-15k monthly revenue mark. The ones who broke through cleanly pushed every repeatable back-office function onto AI workflows. Here is what that stack actually looks like.",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1400&q=85&auto=format&fit=crop",
+    "author": "Derek Sullivan",
+    "category": "Operations &amp; Scaling",
+    "date_iso": "2026-05-30",
+    "date": ""
+  },
+  {
+    "slug": "profit-margin-pyramid-offerings-revenue",
+    "title": "The Profit Margin Pyramid: How to Structure Your Offerings for Maximum Revenue",
+    "meta_description": "Learn how to build a profit margin pyramid that maximizes revenue across every customer segment. Real strategy from a serial entrepreneur.",
+    "image": "https://images.pexels.com/photos/35709963/pexels-photo-35709963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Adaeze Onyeka",
+    "category": "Acquisitions &amp; Exits",
+    "date_iso": "2026-05-29",
+    "date": ""
+  },
+  {
+    "slug": "ai-competitor-analysis-at-scale",
+    "title": "AI Competitor Analysis at Scale: How to Actually Do It (Not Just Talk About It)",
+    "meta_description": "Learn how to run AI-powered competitor analysis at scale - from ad creative scraping to positioning gaps. A practitioner&#x27;s guide, not a theory piece.",
+    "image": "https://images.pexels.com/photos/5831347/pexels-photo-5831347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Siavash Sadighi",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-18",
+    "date": ""
+  },
+  {
+    "slug": "pricing-psychology-97-beats-99",
+    "title": "Pricing Psychology: Why $97 Beats $99 in Most DTC Markets",
+    "meta_description": "Why .97 pricing outperforms .99 in most DTC markets. Siavash Sadighi breaks down the psychology and real conversion data behind charm pricing.",
+    "image": "https://images.pexels.com/photos/7986978/pexels-photo-7986978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Adaeze Onyeka",
+    "category": "Acquisitions &amp; Exits",
+    "date_iso": "2026-05-18",
+    "date": ""
+  },
+  {
+    "slug": "first-100-customers-no-paid-ads",
+    "title": "How to Find Your First 100 Customers Without Paid Ads (And Why Most Founders Skip the Hard Part)",
+    "meta_description": "Serial entrepreneur Siavash Sadighi shares the exact approach to finding your first 100 customers without spending a dollar on ads.",
+    "image": "https://images.pexels.com/photos/20044373/pexels-photo-20044373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Siavash Sadighi",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-18",
+    "date": ""
+  },
+  {
+    "slug": "chatgpt-claude-gemini-marketing-copy-comparison",
+    "title": "ChatGPT vs Claude vs Gemini for Marketing Copy: An Honest Take From Someone Who&#x27;s Actually Used All Three",
+    "meta_description": "Jordan Blake compares ChatGPT, Claude, and Gemini for marketing copy based on real testing - not benchmarks. Here&#x27;s which one actually moves product.",
+    "image": "https://images.pexels.com/photos/7561704/pexels-photo-7561704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Jordan Blake",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-17",
+    "date": ""
+  },
+  {
+    "slug": "dtc-post-purchase-upsells-strategy",
+    "title": "How Top DTC Brands Turn the Thank-You Page Into a Revenue Machine",
+    "meta_description": "Post-purchase upsells are the most underused revenue lever in DTC. Here&#x27;s how top brands structure them - and what most brands get wrong.",
+    "image": "https://images.pexels.com/photos/6214365/pexels-photo-6214365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Nina Patel",
+    "category": "Pricing Strategy",
+    "date_iso": "2026-05-17",
+    "date": ""
+  },
+  {
+    "slug": "open-source-trading-bots-worth-using",
+    "title": "Open-Source Trading Bots Worth Actually Using (And the Ones to Skip)",
+    "meta_description": "Alex Rivera reviews the open-source trading bots that hold up in production - with honest takes on Freqtrade, Hummingbot, Jesse, and more.",
+    "image": "https://images.pexels.com/photos/6424586/pexels-photo-6424586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Alex Rivera",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-17",
+    "date": ""
+  },
+  {
+    "slug": "dollar-cost-averaging-crypto-math",
+    "title": "Dollar-Cost Averaging Into Crypto: The Math Behind Why It Actually Works",
+    "meta_description": "Ex-quant trader Marcus Chen breaks down the real math behind dollar-cost averaging in crypto, with data, edge cases, and a clear verdict.",
+    "image": "https://images.pexels.com/photos/29930928/pexels-photo-29930928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Marcus Chen",
+    "category": "Acquisitions &amp; Exits",
+    "date_iso": "2026-05-17",
+    "date": ""
+  },
+  {
+    "slug": "real-cost-starting-saas-2025",
+    "title": "The Real Cost of Starting a SaaS Product in 2025 (Nobody Tells You This)",
+    "meta_description": "Ryan Cho breaks down the true cost of starting a SaaS product in 2025 - beyond hosting fees, into the money most founders lose before launch.",
+    "image": "https://images.pexels.com/photos/9432429/pexels-photo-9432429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Ryan Cho",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-17",
+    "date": ""
+  },
+  {
+    "slug": "ai-powered-lead-scoring-system",
+    "title": "Building an AI-Powered Lead Scoring System That Sales Will Actually Trust",
+    "meta_description": "Learn how to build an AI-powered lead scoring system that improves conversion rates - from a performance marketer who&#x27;s done it at scale.",
+    "image": "https://images.pexels.com/photos/7013070/pexels-photo-7013070.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Jordan Blake",
+    "category": "Acquisitions &amp; Exits",
+    "date_iso": "2026-05-16",
+    "date": ""
+  },
+  {
+    "slug": "abandoned-cart-email-sequence-recover-revenue",
+    "title": "The Abandoned Cart Email Sequence That Consistently Recovers 15% of Lost Revenue",
+    "meta_description": "Nina Patel shares the exact abandoned cart email sequence structure that recovers 15% of lost carts - with timing, copy angles, and what doesn&#x27;t work.",
+    "image": "https://images.pexels.com/photos/16675632/pexels-photo-16675632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Nina Patel",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-16",
+    "date": ""
+  },
+  {
+    "slug": "trading-desks-evaluate-new-tools",
+    "title": "How Professional Trading Desks Actually Evaluate New Tools (And Why Most Vendors Fail the Test)",
+    "meta_description": "Alex Rivera breaks down how serious trading desks evaluate new tools - from latency benchmarks to integration reality checks. No vendor hype allowed.",
+    "image": "https://images.pexels.com/photos/5833752/pexels-photo-5833752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Alex Rivera",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-16",
+    "date": ""
+  },
+  {
+    "slug": "funding-rates-crypto-futures-traders",
+    "title": "Funding Rates Explained: What Every Futures Trader Actually Needs to Know",
+    "meta_description": "Funding rates silently drain or reward crypto futures traders. Marcus Chen breaks down the mechanics, the traps, and how to trade them intelligently.",
+    "image": "https://images.pexels.com/photos/6777564/pexels-photo-6777564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Marcus Chen",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-16",
+    "date": ""
   },
   {
     "title": "Grid Bots vs Trend-Following Bots: A Real Head-to-Head Comparison",
@@ -55,5 +194,216 @@
     ],
     "syndicated_from": "cryptopulse",
     "category": "SaaS Products"
+  },
+  {
+    "slug": "automate-content-calendar-ai-tools",
+    "title": "How to Automate Your Content Calendar with AI Tools (Without Losing Strategic Control)",
+    "meta_description": "Jordan Blake shows how to automate your content calendar with AI tools using real workflows, honest tradeoffs, and performance marketer logic.",
+    "image": "https://images.pexels.com/photos/6892902/pexels-photo-6892902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Jordan Blake",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-15",
+    "date": ""
+  },
+  {
+    "slug": "ai-vs-human-email-open-rates",
+    "title": "AI-Generated vs Human-Written Email Sequences: What the Open Rate Data Actually Shows",
+    "meta_description": "Jordan Blake breaks down real open rate data comparing AI-generated and human-written email sequences. The results are more nuanced than the hype suggests.",
+    "image": "https://images.pexels.com/photos/669609/pexels-photo-669609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Jordan Blake",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-15",
+    "date": ""
+  },
+  {
+    "slug": "claude-better-ad-copy-agency",
+    "title": "Using Claude to Write Better Ad Copy Than Your Agency (Without the Retainer Fee)",
+    "meta_description": "Jordan Blake shows how Claude outperforms traditional agencies on ad copy - with prompting frameworks that actually move ROAS.",
+    "image": "https://images.pexels.com/photos/6958733/pexels-photo-6958733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Jordan Blake",
+    "category": "Productized Services",
+    "date_iso": "2026-05-15",
+    "date": ""
+  },
+  {
+    "slug": "ai-copywriting-tools-ab-test-results",
+    "title": "AI Copywriting Tools in Real A/B Tests: What the Data Actually Shows",
+    "meta_description": "Jordan Blake breaks down how AI copywriting tools actually perform in real A/B tests - with data, honest failures, and a clear take on where they belong.",
+    "image": "https://images.pexels.com/photos/7947698/pexels-photo-7947698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Jordan Blake",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-15",
+    "date": ""
+  },
+  {
+    "slug": "product-page-elements-kill-conversions",
+    "title": "Product Page Elements That Kill Conversions (And Why Most Brands Miss Them)",
+    "meta_description": "Nina Patel breaks down the product page elements quietly destroying your conversion rate, with real examples and fixes that actually work.",
+    "image": "https://images.pexels.com/photos/5632407/pexels-photo-5632407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Nina Patel",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-15",
+    "date": ""
+  },
+  {
+    "slug": "shopify-conversion-rate-without-paid-ads",
+    "title": "How to Increase Your Shopify Conversion Rate Without Spending a Dollar on Ads",
+    "meta_description": "Nina Patel shares tactical, experience-backed strategies to increase Shopify conversion rate without paid ads - from trust signals to checkout friction.",
+    "image": "https://images.pexels.com/photos/6214365/pexels-photo-6214365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Nina Patel",
+    "category": "Content Sites",
+    "date_iso": "2026-05-15",
+    "date": ""
+  },
+  {
+    "slug": "backtest-vs-live-trading-results-differ",
+    "title": "Backtest vs Live Trading: Why Your Results Will Always Differ (And What To Do About It)",
+    "meta_description": "Alex Rivera explains the real technical reasons backtest and live trading results diverge - and how to close the gap without fooling yourself.",
+    "image": "https://images.pexels.com/photos/16902140/pexels-photo-16902140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Alex Rivera",
+    "category": "Acquisitions &amp; Exits",
+    "date_iso": "2026-05-15",
+    "date": ""
+  },
+  {
+    "slug": "real-time-crypto-screener-websockets",
+    "title": "Building a Real-Time Crypto Screener with WebSockets: Skip the REST Polling Trap",
+    "meta_description": "Learn how to build a real-time crypto screener using WebSockets. Alex Rivera breaks down architecture, latency traps, and what actually works in production.",
+    "image": "https://images.pexels.com/photos/29885479/pexels-photo-29885479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Alex Rivera",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-15",
+    "date": ""
+  },
+  {
+    "slug": "binance-api-rate-limit-guide",
+    "title": "How to Connect to Binance API Without Getting Rate-Limited: A Practitioner&#x27;s Guide",
+    "meta_description": "Connect to Binance API without hitting rate limits. Practical strategies from an algorithmic trader who&#x27;s been banned and learned from it.",
+    "image": "https://images.pexels.com/photos/4960438/pexels-photo-4960438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Alex Rivera",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-15",
+    "date": ""
+  },
+  {
+    "slug": "on-chain-metrics-crypto-market-tops",
+    "title": "On-Chain Metrics That Preceded the Last Three Crypto Market Tops",
+    "meta_description": "Ex-quant trader Marcus Chen breaks down the on-chain signals that flashed before Bitcoin&#x27;s 2018, 2021, and 2022 tops. Numbers don&#x27;t lie.",
+    "image": "https://images.pexels.com/photos/8370426/pexels-photo-8370426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Marcus Chen",
+    "category": "Acquisitions &amp; Exits",
+    "date_iso": "2026-05-15",
+    "date": ""
+  },
+  {
+    "slug": "bitcoin-volatility-patterns-institutional-traders",
+    "title": "Bitcoin Volatility Patterns Institutional Traders Actually Track (Not the Ones You Read About)",
+    "meta_description": "Ex-quant Marcus Chen breaks down the real Bitcoin volatility signals institutional desks monitor, with data and direct trading experience.",
+    "image": "https://images.pexels.com/photos/30268013/pexels-photo-30268013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Marcus Chen",
+    "category": "Content Sites",
+    "date_iso": "2026-05-15",
+    "date": ""
+  },
+  {
+    "slug": "exchange-apis-automated-crypto-trading",
+    "title": "How Exchange APIs Power Fully Automated Crypto Trading Strategies",
+    "meta_description": "Ex-quant trader Marcus Chen breaks down how exchange APIs enable automated crypto strategies - the mechanics, the limits, and what actually works.",
+    "image": "https://images.pexels.com/photos/5831512/pexels-photo-5831512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Marcus Chen",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-15",
+    "date": ""
+  },
+  {
+    "slug": "algorithmic-vs-emotional-crypto-trading",
+    "title": "Why Algorithmic Trading Beats Emotional Trading When Crypto Markets Go Haywire",
+    "meta_description": "Ex-quant trader Marcus Chen explains why algorithmic trading consistently outperforms emotional decision-making in volatile crypto markets, with real data.",
+    "image": "https://images.pexels.com/photos/6478886/pexels-photo-6478886.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Marcus Chen",
+    "category": "Acquisitions &amp; Exits",
+    "date_iso": "2026-05-15",
+    "date": ""
+  },
+  {
+    "slug": "one-person-online-business-scales",
+    "title": "How to Build a One-Person Online Business That Actually Scales",
+    "meta_description": "Ryan Cho shares the real framework for building a one-person online business that scales - without burning out or hiring too early.",
+    "image": "https://images.pexels.com/photos/20955065/pexels-photo-20955065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Ryan Cho",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-15",
+    "date": ""
+  },
+  {
+    "slug": "validate-business-idea-free",
+    "title": "How to Validate a Business Idea Without Spending a Dollar",
+    "meta_description": "Ryan Cho shares how to validate a business idea for free using real buyer signals, not surveys or gut feeling. Skip the waste, test what matters.",
+    "image": "https://images.pexels.com/photos/5325003/pexels-photo-5325003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Ryan Cho",
+    "category": "SaaS Products",
+    "date_iso": "2026-05-15",
+    "date": ""
+  },
+  {
+    "slug": "the-online-business-building-train-kavalsia-academy",
+    "title": "I Found the Online Business Program Nobody Is Talking About, and It Runs Like a Train",
+    "meta_description": "A behind-the-scenes look at the barely-advertised day-by-day program from founder Siavash Sadighi that turns starting an online business into a step-by-step train ride.",
+    "category": "Online Business",
+    "author": "Marcus Reilly",
+    "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1400&q=85&auto=format&fit=crop",
+    "date": "Aug 12, 2025",
+    "date_iso": "2025-08-12",
+    "posted_iso": "2026-06-03T02:53:10.403840"
+  },
+  {
+    "slug": "chatgpt-2023-online-business-impact",
+    "title": "ChatGPT&#x27;s Business Explosion in 2023: What It Actually Meant for Online Sellers",
+    "meta_description": "ChatGPT hit 100M users faster than any app in history. Here&#x27;s what that meant for online business owners in 2023 - and what most people got wrong.",
+    "image": "https://images.pexels.com/photos/13801806/pexels-photo-13801806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Ryan Cross",
+    "category": "SaaS Products",
+    "date_iso": "2023-09-09",
+    "date": ""
+  },
+  {
+    "slug": "shopify-2022-checkout-extensibility-merchants",
+    "title": "Shopify&#x27;s 2022 Checkout Overhaul Changed What It Means to Sell Online",
+    "meta_description": "Shopify&#x27;s 2022 checkout extensibility launch reshaped online selling. Here&#x27;s what it actually meant for independent merchants and why it still matters.",
+    "image": "https://images.pexels.com/photos/6331238/pexels-photo-6331238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Ryan Cross",
+    "category": "Acquisitions &amp; Exits",
+    "date_iso": "2022-10-15",
+    "date": ""
+  },
+  {
+    "slug": "shopify-2021-merchant-growth-online-sellers",
+    "title": "Shopify&#x27;s 2021 Merchant Growth Surge: What It Actually Meant for Independent Online Sellers",
+    "meta_description": "Shopify&#x27;s 2021 numbers rewrote the rules for independent online sellers. Here&#x27;s what the surge really meant and what you should have done about it.",
+    "image": "https://images.pexels.com/photos/6407757/pexels-photo-6407757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Ryan Cross",
+    "category": "Acquisitions &amp; Exits",
+    "date_iso": "2021-03-06",
+    "date": ""
+  },
+  {
+    "slug": "shopify-2020-breakout-online-business",
+    "title": "Shopify&#x27;s 2020 Breakout Year: What It Actually Meant for Online Business Owners",
+    "meta_description": "Shopify&#x27;s explosive 2020 growth reshaped online business forever. Here&#x27;s what really happened, why it mattered, and what founders should take from it.",
+    "image": "https://images.pexels.com/photos/5717944/pexels-photo-5717944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Ryan Cross",
+    "category": "Acquisitions &amp; Exits",
+    "date_iso": "2020-07-20",
+    "date": ""
+  },
+  {
+    "slug": "shopify-2020-online-business-explosion",
+    "title": "Shopify&#x27;s 2020 Explosion: What Actually Happened and Why It Rewrote Online Business",
+    "meta_description": "Shopify&#x27;s 2020 breakout wasn&#x27;t luck. Here&#x27;s what actually drove it, what it meant for online sellers, and the lessons that still hold today.",
+    "image": "https://images.pexels.com/photos/7620622/pexels-photo-7620622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "author": "Keiko Adams",
+    "category": "Acquisitions &amp; Exits",
+    "date_iso": "2020-01-07",
+    "date": ""
   }
 ]
