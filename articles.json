@@ -423,5 +423,42 @@
     "category": "Acquisitions &amp; Exits",
     "date_iso": "2020-01-07",
     "date": ""
+  },
+  {
+    "title": "The Burnout Trap: Why Solopreneurs Need to Manage Energy, Not Just Time",
+    "slug": "solopreneur-burnout-energy-management",
+    "meta_description": "Solopreneur burnout isn't a time problem. Ryan Cross explains why managing energy is the real fix, with practical systems that actually hold up.",
+    "date": "June 08, 2026",
+    "date_iso": "2026-06-08",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/8386722/pexels-photo-8386722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "who.int",
+      "hbr.org",
+      "apa.org"
+    ],
+    "posted_iso": "2026-06-08",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Apple's ATT Privacy Update in 2021 Broke Online Advertising and Forced a Smarter Era",
+    "slug": "apple-att-2021-online-advertising-impact",
+    "meta_description": "Apple's App Tracking Transparency launched April 2021 and reshaped online business. Here's what actually happened and what it meant for sellers.",
+    "date": "February 04, 2021",
+    "date_iso": "2021-02-04",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/8088683/pexels-photo-8088683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "flurry.com",
+      "reuters.com",
+      "ftc.gov"
+    ],
+    "posted_iso": "2026-06-08",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
