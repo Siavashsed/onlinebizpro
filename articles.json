@@ -460,5 +460,24 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Apple's ATT Update Broke the Facebook Ad Machine in 2021",
+    "slug": "apple-att-facebook-ads-2021",
+    "meta_description": "Apple's App Tracking Transparency hit in April 2021 and rewired how online businesses run paid ads. Here's what actually happened and why it still matters.",
+    "date": "June 10, 2021",
+    "date_iso": "2021-06-10",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/413506/pexels-photo-413506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "flurry.com",
+      "statista.com",
+      "investor.fb.com"
+    ],
+    "posted_iso": "2026-06-10",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
