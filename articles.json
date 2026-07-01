@@ -479,5 +479,42 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Business Has No Docs. That's Why It Can't Sell.",
+    "slug": "documenting-business-processes-solopreneurs",
+    "meta_description": "Documenting your business processes isn't busywork. It's the asset solopreneurs ignore until it costs them a sale or their sanity.",
+    "date": "July 01, 2026",
+    "date_iso": "2026-07-01",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/9034244/pexels-photo-9034244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "mckinsey.com",
+      "sba.gov",
+      "hbr.org"
+    ],
+    "posted_iso": "2026-07-01",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Apple's ATT Rollout in 2021 Broke Online Advertising for Good",
+    "slug": "apple-att-2021-online-advertising-impact-2",
+    "meta_description": "Apple's App Tracking Transparency framework changed online advertising in 2021. Here's what actually happened, who it hurt, and what it meant for your business.",
+    "date": "July 21, 2021",
+    "date_iso": "2021-07-21",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/33307657/pexels-photo-33307657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "statista.com",
+      "investor.fb.com",
+      "techcrunch.com"
+    ],
+    "posted_iso": "2026-07-01",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
