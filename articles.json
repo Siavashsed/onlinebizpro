@@ -516,5 +516,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Poppy AI Runs My 30K a Month Business, and I Have No Team",
+    "slug": "poppy-ai-solo-business-setup",
+    "meta_description": "How I use Poppy AI to run a 30K a month one-person business, the exact setup, what it replaced, and where it still falls short.",
+    "date": "July 01, 2026",
+    "date_iso": "2026-07-01",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/5357829/pexels-photo-5357829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "census.gov",
+      "mckinsey.com"
+    ],
+    "posted_iso": "2026-07-01",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
