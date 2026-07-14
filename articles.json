@@ -516,5 +516,42 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Why Your Solo Business Stalls at $200K (And How Mine Didn't)",
+    "slug": "solo-online-business-scales",
+    "meta_description": "A three-time founder on building a one-person online business that scales past the ceiling most solo operators hit, without hiring a team.",
+    "date": "July 13, 2026",
+    "date_iso": "2026-07-13",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/7651595/pexels-photo-7651595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "census.gov",
+      "mckinsey.com"
+    ],
+    "posted_iso": "2026-07-13",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Shopify Cut 1,000 Jobs. The Ecommerce Boom Just Broke",
+    "slug": "shopify-2022-layoffs-ecommerce-reckoning",
+    "meta_description": "Shopify's July 2022 layoffs signal the end of the pandemic ecommerce bet. Here's what it means for anyone selling online right now.",
+    "date": "October 04, 2022",
+    "date_iso": "2022-10-04",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/12024977/pexels-photo-12024977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "shopify.com",
+      "census.gov",
+      "reuters.com",
+      "cnbc.com"
+    ],
+    "posted_iso": "2026-07-13",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
