@@ -553,5 +553,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "I Sold Three Companies. My First 100 Customers Never Cost a Dollar in Ads",
+    "slug": "first-100-customers-no-ads",
+    "meta_description": "Your first 100 customers come from doing things that don't scale. Here's the no-ad playbook I used to bootstrap and sell three businesses.",
+    "date": "July 15, 2026",
+    "date_iso": "2026-07-15",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/12662855/pexels-photo-12662855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "paulgraham.com",
+      "nielsen.com"
+    ],
+    "posted_iso": "2026-07-15",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
