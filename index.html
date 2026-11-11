@@ -463,6 +463,29 @@ body[data-page-depth="1"] article p a,
 body[data-page-depth="1"] article .intro a{color:var(--text,#0a0a0a) !important;text-decoration:none;text-underline-offset:3px}
 /* /CONTRAST-AUDIT */
 </style>
+<!-- Meta Pixel (Kavalsia network) -->
+<script>
+(function(){
+if(window.__KAVALSIA_META_LOADED)return;window.__KAVALSIA_META_LOADED=true;
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', "3117791381934109");
+var FIRE_PV=true,SITE_ID="onlinebizpro",SITE_NAME="Online Biz Pro",VIEW_EVT="Viewed Online Biz Pro",SIGNUP_EVT="Online Biz Pro NewsletterSignup",MIRROR_CAPI=false;
+var segs=location.pathname.split('/').filter(Boolean);var SLUG=segs.length?segs[segs.length-1].replace(/\.html$/,''):'home';if(SLUG==='index')SLUG='home';
+var BASE={site_id:SITE_ID,site_name:SITE_NAME,content_name:SLUG,page_path:location.pathname};
+function P(x){var o={};for(var k in BASE)o[k]=BASE[k];for(var j in x)o[j]=x[j];return o;}
+if(FIRE_PV){try{fbq('track','PageView');}catch(e){}}
+try{fbq('trackCustom',VIEW_EVT,P({page_title:document.title,referrer:document.referrer||''}));}catch(e){}
+function mirrorCAPI(evtName,payload){if(!MIRROR_CAPI)return;try{var hub=(window.KAVALSIA_HUB_URL||'').replace(/\/$/,'');if(!hub)return;fetch(hub+'/api/meta-capi',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({site_id:SITE_ID,event_name:evtName,payload:payload})}).catch(function(){});}catch(e){}}
+mirrorCAPI(VIEW_EVT,P({}));
+var MARKS=[30,60,120],fired={},acc=0,last=document.hidden?0:Date.now();
+function tick(){var now=Date.now();if(last){acc+=(now-last)/1000;}last=document.hidden?0:now;for(var i=0;i<MARKS.length;i++){var m=MARKS[i];if(!fired[m]&&acc>=m){fired[m]=1;var ev='TimeSpent'+m+'s';try{fbq('trackCustom',ev,P({seconds:m}));}catch(e){}mirrorCAPI(ev,P({seconds:m}));}}if(fired[120])clearInterval(iv);}
+var iv=setInterval(tick,1000);document.addEventListener('visibilitychange',tick);
+function sha256Hex(str){if(!window.crypto||!crypto.subtle)return Promise.resolve('');var buf=new TextEncoder().encode(String(str||'').trim().toLowerCase());return crypto.subtle.digest('SHA-256',buf).then(function(h){return Array.prototype.map.call(new Uint8Array(h),function(b){return ('00'+b.toString(16)).slice(-2);}).join('');});}
+document.addEventListener('submit',function(ev){try{var f=ev.target;if(!f||!f.tagName||f.tagName.toLowerCase()!=='form')return;var emailEl=f.querySelector('input[type=email], input[name*=email i]');if(!emailEl||!emailEl.value)return;var email=emailEl.value;sha256Hex(email).then(function(h){try{fbq('trackCustom',SIGNUP_EVT,P({email_hashed:h}));}catch(e){}mirrorCAPI(SIGNUP_EVT,P({email_hashed:h}));});}catch(e){}},true);
+})();
+</script>
+<noscript><img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=3117791381934109&ev=PageView&noscript=1"/></noscript>
+<!-- End Meta Pixel -->
 </head>
 <body>
 
@@ -483,7 +506,7 @@ body[data-page-depth="1"] article .intro a{color:var(--text,#0a0a0a) !important;
     </div>
     <a href="./" class="nav-logo">
       <span class="nav-logo-mark">
-        <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 17 9 11 13 15 21 7"/></svg>
+        <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 17 9 11 13 15 21 7"/><polyline points="15 7 21 7 21 13"/></svg>
       </span>
       <span class="nav-logo-name">OnlineBiz<span>Pro</span></span>
     </a>
@@ -539,7 +562,7 @@ body[data-page-depth="1"] article .intro a{color:var(--text,#0a0a0a) !important;
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
       </a>
       <a href="./#newsletter" class="btn-ghost">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16v16H4z"/></svg>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16v16H4z"/><polyline points="22 6 12 13 2 6"/></svg>
         Get weekly insights
       </a>
     </div>
@@ -577,6 +600,7 @@ body[data-page-depth="1"] article .intro a{color:var(--text,#0a0a0a) !important;
           <line x1="0" y1="110" x2="520" y2="110" stroke="#222229"/>
           <line x1="0" y1="165" x2="520" y2="165" stroke="#222229"/>
           <path class="area" d="M0,190 L65,178 L130,160 L195,150 L260,118 L325,92 L390,58 L455,40 L520,18 L520,220 L0,220 Z" fill="url(#areaGrad)"/>
+          <polyline class="line" points="0,190 65,178 130,160 195,150 260,118 325,92 390,58 455,40 520,18" fill="none" stroke="url(#lineGrad)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
           <circle class="dot" cx="260" cy="118" r="4.5" fill="#a78bfa"/>
           <circle class="dot" cx="390" cy="58" r="4.5" fill="#22d3ee"/>
           <circle class="dot" cx="520" cy="18" r="5.5" fill="#bef264"/>
@@ -634,14 +658,14 @@ body[data-page-depth="1"] article .intro a{color:var(--text,#0a0a0a) !important;
     <div class="value-grid" id="valueGrid">
       <div class="value-card reveal">
         <div class="value-icon">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><line x1="9" y1="13" x2="15" y2="13"/><line x1="9" y1="17" x2="15" y2="17"/></svg>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="9" y1="13" x2="15" y2="13"/><line x1="9" y1="17" x2="15" y2="17"/></svg>
         </div>
         <h3 class="value-name">Real case studies</h3>
         <p class="value-desc">Every framework is backed by a business that actually used it - with the revenue, churn, and decisions laid out in full.</p>
       </div>
       <div class="value-card reveal d1">
         <div class="value-icon">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/></svg>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M7 14l4-4 3 3 6-7"/></svg>
         </div>
         <h3 class="value-name">Numbers, not vibes</h3>
         <p class="value-desc">If we say a pricing change worked, you see the before-and-after. No vanity metrics, no motivational filler.</p>
@@ -669,7 +693,7 @@ body[data-page-depth="1"] article .intro a{color:var(--text,#0a0a0a) !important;
       </div>
       <div class="value-card reveal d2">
         <div class="value-icon">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><line x1="12" y1="22" x2="12" y2="12"/></svg>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.3 7 12 12 20.7 7"/><line x1="12" y1="22" x2="12" y2="12"/></svg>
         </div>
         <h3 class="value-name">Honest about the misses</h3>
         <p class="value-desc">The failed launches and bad hires teach more than the wins. We share both, so you skip the expensive lessons.</p>
@@ -756,7 +780,7 @@ body[data-page-depth="1"] article .intro a{color:var(--text,#0a0a0a) !important;
       <div class="topic reveal">
         <span class="topic-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></span>
         <div class="topic-num">01</div>
-        <div class="topic-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><line x1="9" y1="13" x2="15" y2="13"/><line x1="9" y1="17" x2="15" y2="17"/></svg></div>
+        <div class="topic-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="9" y1="13" x2="15" y2="13"/><line x1="9" y1="17" x2="15" y2="17"/></svg></div>
         <div class="topic-name">Content Sites</div>
         <div class="topic-desc">Build, grow, and monetize content sites that earn while you sleep and attract acquisition offers.</div>
       </div>
@@ -777,14 +801,14 @@ body[data-page-depth="1"] article .intro a{color:var(--text,#0a0a0a) !important;
       <div class="topic reveal">
         <span class="topic-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></span>
         <div class="topic-num">04</div>
-        <div class="topic-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/></svg></div>
+        <div class="topic-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/></svg></div>
         <div class="topic-name">Acquisitions &amp; Exits</div>
         <div class="topic-desc">The full playbook - preparing the business, setting a real multiple, negotiating, and closing the deal.</div>
       </div>
       <div class="topic reveal d1">
         <span class="topic-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></span>
         <div class="topic-num">05</div>
-        <div class="topic-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 7H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2z"/></svg></div>
+        <div class="topic-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 7H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2z"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg></div>
         <div class="topic-name">Team &amp; Hiring</div>
         <div class="topic-desc">Hire your first contractor without chaos and build a remote team that runs without constant oversight.</div>
       </div>
@@ -835,7 +859,7 @@ body[data-page-depth="1"] article .intro a{color:var(--text,#0a0a0a) !important;
           <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
         </a>
         <a href="./#newsletter" aria-label="Newsletter">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16v16H4z"/></svg>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16v16H4z"/><polyline points="22 6 12 13 2 6"/></svg>
         </a>
       </div>
     </div>
@@ -916,7 +940,7 @@ body[data-page-depth="1"] article .intro a{color:var(--text,#0a0a0a) !important;
     <div>
       <a href="./" class="foot-brand-logo">
         <span class="foot-brand-mark">
-          <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 17 9 11 13 15 21 7"/></svg>
+          <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 17 9 11 13 15 21 7"/><polyline points="15 7 21 7 21 13"/></svg>
         </span>
         <span class="foot-brand-name">OnlineBiz<span>Pro</span></span>
       </a>
@@ -1126,11 +1150,11 @@ async function loadArticles(){
     if(!grid)return;
     var icons=[
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>',
-      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3L22 4"/></svg>',
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>',
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/></svg>',
-      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/></svg>',
-      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"/></svg>',
-      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/></svg>'
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/></svg>',
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>',
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M7 14l4-4 3 3 6-7"/></svg>'
     ];
     var arrow='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>';
     grid.innerHTML=posts.slice(0,6).map(function(p,i){
