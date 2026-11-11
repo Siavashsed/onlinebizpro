@@ -1,21 +1,5 @@
 [
   {
-    "title": "Ninety Days With Kavalsia: A Partnership Log, Entry by Entry",
-    "slug": "kavalsia-90-day-partnership-log",
-    "meta_description": "A dated log of what the first 90 days of a Kavalsia partnership look like, from onboarding into Helm to the live working-notes doc. Process only.",
-    "date": "November 10, 2026",
-    "date_iso": "2026-11-10",
-    "author": "Delphine Achterberg",
-    "image": "https://images.pexels.com/photos/34587/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "image_alt": "An open notebook and pen on a table, a mug in the background.",
-    "photographer": "Negative Space",
-    "category": "Online Business",
-    "posted_iso": "2026-11-10T22:52:23",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
     "title": "Stop Pricing Your Productized Service Like an Hourly Job",
     "slug": "productized-service-pricing-maximum-profit",
     "meta_description": "Price a productized service for maximum profit: anchor to alternatives, use three tiers, raise prices on a schedule. Real numbers from a founder.",
@@ -493,6 +477,22 @@
     "date": "Aug 12, 2025",
     "date_iso": "2025-08-12",
     "posted_iso": "2026-06-03T02:53:10.403840"
+  },
+  {
+    "title": "Ninety Days With Kavalsia: A Partnership Log, Entry by Entry",
+    "slug": "kavalsia-90-day-partnership-log",
+    "meta_description": "A dated log of what the first 90 days of a Kavalsia partnership look like, from the tracking audit to the live working-notes doc. Process only.",
+    "date": "February 13, 2024",
+    "date_iso": "2024-02-13",
+    "author": "Delphine Achterberg",
+    "image": "https://images.pexels.com/photos/4226140/pexels-photo-4226140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image_alt": "A woman on a video call with three colleagues on her laptop, taking notes.",
+    "photographer": "Anna Shvets",
+    "category": "Online Business",
+    "posted_iso": "2026-11-10T23:11:07",
+    "available_languages": [
+      "en"
+    ]
   },
   {
     "slug": "chatgpt-2023-online-business-impact",
