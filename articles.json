@@ -1,5 +1,125 @@
 [
   {
+    "title": "Ninety Days With Kavalsia: A Partnership Log, Entry by Entry",
+    "slug": "kavalsia-90-day-partnership-log",
+    "meta_description": "A dated log of what the first 90 days of a Kavalsia partnership look like, from onboarding into Helm to the live working-notes doc. Process only.",
+    "date": "November 10, 2026",
+    "date_iso": "2026-11-10",
+    "author": "Delphine Achterberg",
+    "image": "https://images.pexels.com/photos/34587/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image_alt": "An open notebook and pen on a table, a mug in the background.",
+    "photographer": "Negative Space",
+    "category": "Online Business",
+    "posted_iso": "2026-11-10T22:52:23",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Stop Pricing Your Productized Service Like an Hourly Job",
+    "slug": "productized-service-pricing-maximum-profit",
+    "meta_description": "Price a productized service for maximum profit: anchor to alternatives, use three tiers, raise prices on a schedule. Real numbers from a founder.",
+    "date": "July 19, 2026",
+    "date_iso": "2026-07-19",
+    "author": "Keiko Adams",
+    "image": "https://images.pexels.com/photos/6476266/pexels-photo-6476266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "mckinsey.com",
+      "paddle.com"
+    ],
+    "posted_iso": "2026-07-19",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "148 Cold Emails, 33 Replies: The Sequence That Did It",
+    "slug": "cold-email-sequence-20-percent-replies",
+    "meta_description": "A bootstrapped founder breaks down the exact cold email sequence structure that pulled a 22% reply rate, and why your list matters more than your copy.",
+    "date": "July 17, 2026",
+    "date_iso": "2026-07-17",
+    "author": "Derek Sullivan",
+    "image": "",
+    "outbound_links": [
+      "backlinko.com",
+      "woodpecker.co"
+    ],
+    "posted_iso": "2026-07-17",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "I Sold Three Companies. My First 100 Customers Never Cost a Dollar in Ads",
+    "slug": "first-100-customers-no-ads",
+    "meta_description": "Your first 100 customers come from doing things that don't scale. Here's the no-ad playbook I used to bootstrap and sell three businesses.",
+    "date": "July 15, 2026",
+    "date_iso": "2026-07-15",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/12662855/pexels-photo-12662855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "paulgraham.com",
+      "nielsen.com"
+    ],
+    "posted_iso": "2026-07-15",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Why Your Solo Business Stalls at $200K (And How Mine Didn't)",
+    "slug": "solo-online-business-scales",
+    "meta_description": "A three-time founder on building a one-person online business that scales past the ceiling most solo operators hit, without hiring a team.",
+    "date": "July 13, 2026",
+    "date_iso": "2026-07-13",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/7651595/pexels-photo-7651595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "census.gov",
+      "mckinsey.com"
+    ],
+    "posted_iso": "2026-07-13",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Your Business Has No Docs. That's Why It Can't Sell.",
+    "slug": "documenting-business-processes-solopreneurs",
+    "meta_description": "Documenting your business processes isn't busywork. It's the asset solopreneurs ignore until it costs them a sale or their sanity.",
+    "date": "July 01, 2026",
+    "date_iso": "2026-07-01",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/9034244/pexels-photo-9034244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "mckinsey.com",
+      "sba.gov",
+      "hbr.org"
+    ],
+    "posted_iso": "2026-07-01",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The Burnout Trap: Why Solopreneurs Need to Manage Energy, Not Just Time",
+    "slug": "solopreneur-burnout-energy-management",
+    "meta_description": "Solopreneur burnout isn't a time problem. Ryan Cross explains why managing energy is the real fix, with practical systems that actually hold up.",
+    "date": "June 08, 2026",
+    "date_iso": "2026-06-08",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/8386722/pexels-photo-8386722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "who.int",
+      "hbr.org",
+      "apa.org"
+    ],
+    "posted_iso": "2026-06-08",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
     "slug": "multiple-revenue-streams-without-burnout",
     "title": "Building Multiple Revenue Streams Without Spreading Yourself Too Thin",
     "meta_description": "Serial entrepreneur Ryan Cross on how to build multiple revenue streams that compound instead of compete. Real frameworks, no fluff.",
@@ -395,67 +515,39 @@
     "date": ""
   },
   {
-    "slug": "shopify-2021-merchant-growth-online-sellers",
-    "title": "Shopify&#x27;s 2021 Merchant Growth Surge: What It Actually Meant for Independent Online Sellers",
-    "meta_description": "Shopify&#x27;s 2021 numbers rewrote the rules for independent online sellers. Here&#x27;s what the surge really meant and what you should have done about it.",
-    "image": "https://images.pexels.com/photos/6407757/pexels-photo-6407757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "title": "Shopify Cut 1,000 Jobs. The Ecommerce Boom Just Broke",
+    "slug": "shopify-2022-layoffs-ecommerce-reckoning",
+    "meta_description": "Shopify's July 2022 layoffs signal the end of the pandemic ecommerce bet. Here's what it means for anyone selling online right now.",
+    "date": "October 04, 2022",
+    "date_iso": "2022-10-04",
     "author": "Ryan Cross",
-    "category": "Acquisitions &amp; Exits",
-    "date_iso": "2021-03-06",
-    "date": ""
-  },
-  {
-    "slug": "shopify-2020-breakout-online-business",
-    "title": "Shopify&#x27;s 2020 Breakout Year: What It Actually Meant for Online Business Owners",
-    "meta_description": "Shopify&#x27;s explosive 2020 growth reshaped online business forever. Here&#x27;s what really happened, why it mattered, and what founders should take from it.",
-    "image": "https://images.pexels.com/photos/5717944/pexels-photo-5717944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "author": "Ryan Cross",
-    "category": "Acquisitions &amp; Exits",
-    "date_iso": "2020-07-20",
-    "date": ""
-  },
-  {
-    "slug": "shopify-2020-online-business-explosion",
-    "title": "Shopify&#x27;s 2020 Explosion: What Actually Happened and Why It Rewrote Online Business",
-    "meta_description": "Shopify&#x27;s 2020 breakout wasn&#x27;t luck. Here&#x27;s what actually drove it, what it meant for online sellers, and the lessons that still hold today.",
-    "image": "https://images.pexels.com/photos/7620622/pexels-photo-7620622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "author": "Keiko Adams",
-    "category": "Acquisitions &amp; Exits",
-    "date_iso": "2020-01-07",
-    "date": ""
-  },
-  {
-    "title": "The Burnout Trap: Why Solopreneurs Need to Manage Energy, Not Just Time",
-    "slug": "solopreneur-burnout-energy-management",
-    "meta_description": "Solopreneur burnout isn't a time problem. Ryan Cross explains why managing energy is the real fix, with practical systems that actually hold up.",
-    "date": "June 08, 2026",
-    "date_iso": "2026-06-08",
-    "author": "Ryan Cross",
-    "image": "https://images.pexels.com/photos/8386722/pexels-photo-8386722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image": "https://images.pexels.com/photos/12024977/pexels-photo-12024977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "outbound_links": [
-      "who.int",
-      "hbr.org",
-      "apa.org"
+      "shopify.com",
+      "census.gov",
+      "reuters.com",
+      "cnbc.com"
     ],
-    "posted_iso": "2026-06-08",
+    "posted_iso": "2026-07-13",
+    "historical": true,
     "available_languages": [
       "en"
     ]
   },
   {
-    "title": "Apple's ATT Privacy Update in 2021 Broke Online Advertising and Forced a Smarter Era",
-    "slug": "apple-att-2021-online-advertising-impact",
-    "meta_description": "Apple's App Tracking Transparency launched April 2021 and reshaped online business. Here's what actually happened and what it meant for sellers.",
-    "date": "February 04, 2021",
-    "date_iso": "2021-02-04",
+    "title": "Apple's ATT Rollout in 2021 Broke Online Advertising for Good",
+    "slug": "apple-att-2021-online-advertising-impact-2",
+    "meta_description": "Apple's App Tracking Transparency framework changed online advertising in 2021. Here's what actually happened, who it hurt, and what it meant for your business.",
+    "date": "July 21, 2021",
+    "date_iso": "2021-07-21",
     "author": "Ryan Cross",
-    "image": "https://images.pexels.com/photos/8088683/pexels-photo-8088683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image": "https://images.pexels.com/photos/33307657/pexels-photo-33307657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "outbound_links": [
-      "flurry.com",
-      "reuters.com",
-      "ftc.gov"
+      "statista.com",
+      "investor.fb.com",
+      "techcrunch.com"
     ],
-    "posted_iso": "2026-06-08",
+    "posted_iso": "2026-07-01",
     "historical": true,
     "available_languages": [
       "en"
@@ -481,128 +573,52 @@
     ]
   },
   {
-    "title": "Your Business Has No Docs. That's Why It Can't Sell.",
-    "slug": "documenting-business-processes-solopreneurs",
-    "meta_description": "Documenting your business processes isn't busywork. It's the asset solopreneurs ignore until it costs them a sale or their sanity.",
-    "date": "July 01, 2026",
-    "date_iso": "2026-07-01",
+    "slug": "shopify-2021-merchant-growth-online-sellers",
+    "title": "Shopify&#x27;s 2021 Merchant Growth Surge: What It Actually Meant for Independent Online Sellers",
+    "meta_description": "Shopify&#x27;s 2021 numbers rewrote the rules for independent online sellers. Here&#x27;s what the surge really meant and what you should have done about it.",
+    "image": "https://images.pexels.com/photos/6407757/pexels-photo-6407757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "author": "Ryan Cross",
-    "image": "https://images.pexels.com/photos/9034244/pexels-photo-9034244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "mckinsey.com",
-      "sba.gov",
-      "hbr.org"
-    ],
-    "posted_iso": "2026-07-01",
-    "available_languages": [
-      "en"
-    ]
+    "category": "Acquisitions &amp; Exits",
+    "date_iso": "2021-03-06",
+    "date": ""
   },
   {
-    "title": "Apple's ATT Rollout in 2021 Broke Online Advertising for Good",
-    "slug": "apple-att-2021-online-advertising-impact-2",
-    "meta_description": "Apple's App Tracking Transparency framework changed online advertising in 2021. Here's what actually happened, who it hurt, and what it meant for your business.",
-    "date": "July 21, 2021",
-    "date_iso": "2021-07-21",
+    "title": "Apple's ATT Privacy Update in 2021 Broke Online Advertising and Forced a Smarter Era",
+    "slug": "apple-att-2021-online-advertising-impact",
+    "meta_description": "Apple's App Tracking Transparency launched April 2021 and reshaped online business. Here's what actually happened and what it meant for sellers.",
+    "date": "February 04, 2021",
+    "date_iso": "2021-02-04",
     "author": "Ryan Cross",
-    "image": "https://images.pexels.com/photos/33307657/pexels-photo-33307657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image": "https://images.pexels.com/photos/8088683/pexels-photo-8088683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "outbound_links": [
-      "statista.com",
-      "investor.fb.com",
-      "techcrunch.com"
-    ],
-    "posted_iso": "2026-07-01",
-    "historical": true,
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Why Your Solo Business Stalls at $200K (And How Mine Didn't)",
-    "slug": "solo-online-business-scales",
-    "meta_description": "A three-time founder on building a one-person online business that scales past the ceiling most solo operators hit, without hiring a team.",
-    "date": "July 13, 2026",
-    "date_iso": "2026-07-13",
-    "author": "Ryan Cross",
-    "image": "https://images.pexels.com/photos/7651595/pexels-photo-7651595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "census.gov",
-      "mckinsey.com"
-    ],
-    "posted_iso": "2026-07-13",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Shopify Cut 1,000 Jobs. The Ecommerce Boom Just Broke",
-    "slug": "shopify-2022-layoffs-ecommerce-reckoning",
-    "meta_description": "Shopify's July 2022 layoffs signal the end of the pandemic ecommerce bet. Here's what it means for anyone selling online right now.",
-    "date": "October 04, 2022",
-    "date_iso": "2022-10-04",
-    "author": "Ryan Cross",
-    "image": "https://images.pexels.com/photos/12024977/pexels-photo-12024977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "shopify.com",
-      "census.gov",
+      "flurry.com",
       "reuters.com",
-      "cnbc.com"
+      "ftc.gov"
     ],
-    "posted_iso": "2026-07-13",
+    "posted_iso": "2026-06-08",
     "historical": true,
     "available_languages": [
       "en"
     ]
   },
   {
-    "title": "I Sold Three Companies. My First 100 Customers Never Cost a Dollar in Ads",
-    "slug": "first-100-customers-no-ads",
-    "meta_description": "Your first 100 customers come from doing things that don't scale. Here's the no-ad playbook I used to bootstrap and sell three businesses.",
-    "date": "July 15, 2026",
-    "date_iso": "2026-07-15",
+    "slug": "shopify-2020-breakout-online-business",
+    "title": "Shopify&#x27;s 2020 Breakout Year: What It Actually Meant for Online Business Owners",
+    "meta_description": "Shopify&#x27;s explosive 2020 growth reshaped online business forever. Here&#x27;s what really happened, why it mattered, and what founders should take from it.",
+    "image": "https://images.pexels.com/photos/5717944/pexels-photo-5717944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "author": "Ryan Cross",
-    "image": "https://images.pexels.com/photos/12662855/pexels-photo-12662855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "paulgraham.com",
-      "nielsen.com"
-    ],
-    "posted_iso": "2026-07-15",
-    "available_languages": [
-      "en"
-    ]
+    "category": "Acquisitions &amp; Exits",
+    "date_iso": "2020-07-20",
+    "date": ""
   },
   {
-    "title": "148 Cold Emails, 33 Replies: The Sequence That Did It",
-    "slug": "cold-email-sequence-20-percent-replies",
-    "meta_description": "A bootstrapped founder breaks down the exact cold email sequence structure that pulled a 22% reply rate, and why your list matters more than your copy.",
-    "date": "July 17, 2026",
-    "date_iso": "2026-07-17",
-    "author": "Derek Sullivan",
-    "image": "",
-    "outbound_links": [
-      "backlinko.com",
-      "woodpecker.co"
-    ],
-    "posted_iso": "2026-07-17",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Stop Pricing Your Productized Service Like an Hourly Job",
-    "slug": "productized-service-pricing-maximum-profit",
-    "meta_description": "Price a productized service for maximum profit: anchor to alternatives, use three tiers, raise prices on a schedule. Real numbers from a founder.",
-    "date": "July 19, 2026",
-    "date_iso": "2026-07-19",
+    "slug": "shopify-2020-online-business-explosion",
+    "title": "Shopify&#x27;s 2020 Explosion: What Actually Happened and Why It Rewrote Online Business",
+    "meta_description": "Shopify&#x27;s 2020 breakout wasn&#x27;t luck. Here&#x27;s what actually drove it, what it meant for online sellers, and the lessons that still hold today.",
+    "image": "https://images.pexels.com/photos/7620622/pexels-photo-7620622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "author": "Keiko Adams",
-    "image": "https://images.pexels.com/photos/6476266/pexels-photo-6476266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "mckinsey.com",
-      "paddle.com"
-    ],
-    "posted_iso": "2026-07-19",
-    "available_languages": [
-      "en"
-    ]
+    "category": "Acquisitions &amp; Exits",
+    "date_iso": "2020-01-07",
+    "date": ""
   }
 ]
