@@ -630,5 +630,44 @@
     "category": "Acquisitions &amp; Exits",
     "date_iso": "2020-01-07",
     "date": ""
+  },
+  {
+    "title": "Most Solo Founder Tools Are a Tax. Six Are Worth Paying For",
+    "slug": "solo-founder-tools-worth-paying-for",
+    "meta_description": "The tools a solo founder needs, the ones that quietly waste money, and the one-sentence test a three-time founder runs before paying for software.",
+    "date": "November 15, 2026",
+    "date_iso": "2026-11-15",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/7100/iphone-desk-laptop-notebook.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "stripe.com",
+      "zylo.com",
+      "techcrunch.com",
+      "bls.gov"
+    ],
+    "posted_iso": "2026-11-15",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Google's March 2024 Update Wiped Out Sites Overnight. Most Deserved It.",
+    "slug": "google-march-2024-core-update-fallout",
+    "meta_description": "Google's March 2024 core update cut low-quality results by 45% and gutted thousands of sites. What it meant for online businesses.",
+    "date": "September 11, 2024",
+    "date_iso": "2024-09-11",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/3861957/pexels-photo-3861957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "developers.google.com",
+      "blog.google",
+      "housefresh.com",
+      "sparktoro.com"
+    ],
+    "posted_iso": "2026-11-15",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
