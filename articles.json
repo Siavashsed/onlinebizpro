@@ -669,5 +669,25 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Third Freelancer Is Telling You It's Time to Hire",
+    "slug": "when-to-hire-vs-use-freelancers",
+    "meta_description": "When to hire vs use freelancers, from a founder who sold three businesses: the real cost math, the context test, and a $41,000 mistake.",
+    "date": "November 16, 2026",
+    "date_iso": "2026-11-16",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/6804068/pexels-photo-6804068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "upwork.com",
+      "bls.gov",
+      "shrm.org",
+      "irs.gov",
+      "dol.gov"
+    ],
+    "posted_iso": "2026-11-16",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
