@@ -710,5 +710,24 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Buyers Said $49. Two Paid. Fix Your Customer Interviews",
+    "slug": "customer-interviews-what-buyers-pay",
+    "meta_description": "Customer interviews that reveal what buyers will actually pay for: ask about past spending, find existing budgets, and test price with real commitments.",
+    "date": "November 18, 2026",
+    "date_iso": "2026-11-18",
+    "author": "Siavash Sadighi",
+    "image": "https://images.pexels.com/photos/6950237/pexels-photo-6950237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "link.springer.com",
+      "cbinsights.com",
+      "momtestbook.com",
+      "en.wikipedia.org"
+    ],
+    "posted_iso": "2026-11-18",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
