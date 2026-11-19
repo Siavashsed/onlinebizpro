@@ -729,5 +729,24 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "My Pre-Sale Raised $9,089 Before I Wrote a Line of Code",
+    "slug": "presale-campaign-fund-product-before-building",
+    "meta_description": "How to run a pre-sale campaign that funds your product before you build it: set a kill number, a delivery date and a refund promise, then ask for cash.",
+    "date": "November 19, 2026",
+    "date_iso": "2026-11-19",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/7793919/pexels-photo-7793919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "cbinsights.com",
+      "kickstarter.com",
+      "ftc.gov",
+      "docs.stripe.com"
+    ],
+    "posted_iso": "2026-11-19",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
