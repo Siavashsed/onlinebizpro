@@ -748,5 +748,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Personal Brand Is a Sales Asset, Not a Logo",
+    "slug": "personal-brand-clients-investors",
+    "meta_description": "A personal brand that attracts clients and investors comes down to one clear problem, public proof, and consistency. Here's what worked across three exits.",
+    "date": "November 20, 2026",
+    "date_iso": "2026-11-20",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/15141495/pexels-photo-15141495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "edelman.com",
+      "nielsen.com"
+    ],
+    "posted_iso": "2026-11-20",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
