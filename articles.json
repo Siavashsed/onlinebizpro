@@ -782,5 +782,41 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Sponsors Pay the Bills, Paid Tiers Build the Business",
+    "slug": "newsletter-sponsorships-paid-tiers-profit",
+    "meta_description": "A newsletter business only turns profitable when sponsorships and paid tiers do different jobs. Here's the pricing, sequencing and math I'd use again.",
+    "date": "November 22, 2026",
+    "date_iso": "2026-11-22",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/39219934/pexels-photo-39219934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "apple.com",
+      "substack.com",
+      "litmus.com"
+    ],
+    "posted_iso": "2026-11-22",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Google Just Turned Nofollow Into a Suggestion, and Link Sellers Should Sweat",
+    "slug": "google-nofollow-hint-change-2019",
+    "meta_description": "Google says nofollow is now a hint, not a rule. Here's what the September 2019 change means for affiliate sites, guest posts, and your link profile.",
+    "date": "August 26, 2019",
+    "date_iso": "2019-08-26",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/5834217/pexels-photo-5834217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "webmasters.googleblog.com",
+      "census.gov"
+    ],
+    "posted_iso": "2026-11-22",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
