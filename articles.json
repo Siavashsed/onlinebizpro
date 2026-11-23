@@ -818,5 +818,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "I Built a 40-Lesson Course and Sold Four Copies. Here's What Fixed It",
+    "slug": "profitable-online-course-outline-first-sale",
+    "meta_description": "A bootstrapped founder's plan for building a profitable online course: validate the outline, shrink the scope, price it right, and land the first sale.",
+    "date": "November 23, 2026",
+    "date_iso": "2026-11-23",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/36697491/pexels-photo-36697491.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "irrodl.org",
+      "hbr.org",
+      "statista.com"
+    ],
+    "posted_iso": "2026-11-23",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
