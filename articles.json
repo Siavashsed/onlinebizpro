@@ -836,5 +836,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Beta Testers Won't Pay Unless You Ask Them To",
+    "slug": "beta-launch-testers-to-paying-customers",
+    "meta_description": "A beta launch only works if testers become buyers. Here's how to pick them, price early, read the right signals, and close the first paying cohort.",
+    "date": "November 24, 2026",
+    "date_iso": "2026-11-24",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/1181655/pexels-photo-1181655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "cbinsights.com",
+      "firstround.com",
+      "hbr.org"
+    ],
+    "posted_iso": "2026-11-24",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
