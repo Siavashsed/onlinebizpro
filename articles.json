@@ -854,5 +854,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your $500 Marketing Budget Should Fund One Funnel, Not Five",
+    "slug": "lean-marketing-funnel-500-budget",
+    "meta_description": "A lean marketing funnel on $500 a month works if you fund one offer, one channel and one email sequence. Here's the split I'd use.",
+    "date": "November 25, 2026",
+    "date_iso": "2026-11-25",
+    "author": "Derek Sullivan",
+    "image": "https://images.pexels.com/photos/7654426/pexels-photo-7654426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "sba.gov",
+      "litmus.com",
+      "bain.com"
+    ],
+    "posted_iso": "2026-11-25",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
