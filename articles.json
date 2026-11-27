@@ -890,5 +890,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Business Runs on Your Memory. Here's How to Fix That",
+    "slug": "build-systems-sops-business-runs-without-you",
+    "meta_description": "Building systems and SOPs so your business runs without you takes decision rules, short checklists, and one real test: leaving for a week.",
+    "date": "November 27, 2026",
+    "date_iso": "2026-11-27",
+    "author": "Ryan Cross",
+    "image": "https://images.pexels.com/photos/7988531/pexels-photo-7988531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "nejm.org",
+      "mckinsey.com",
+      "bls.gov"
+    ],
+    "posted_iso": "2026-11-27",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
